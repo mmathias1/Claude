@@ -1,14 +1,16 @@
 {
-  "updated": "2026-10-09T20:52:21+00:00",
+  "updated": "2026-10-09T20:55:11+00:00",
   "brief": {
-    "summary": "Comments on the supplemental WOTUS proposal close today (Oct 9), and the Senate's bipartisan permitting package is drawing fire for narrowing §401 state and tribal review ahead of floor action expected in early November. A separate EPA proposal to rewrite NPDES definitions and exclusions is open for comment until Oct 19.",
+    "summary": "The supplemental WOTUS comment period closed Oct 9 with no final rule, leaving the scope of federal jurisdiction unsettled. EPA's NPDES definitions proposal remains open until Oct 19, and a Sept 30 CRS update confirms EPA still has no final PFAS effluent guideline after rescinding its state permit guidance in August.",
     "aff": [
-      "Inherency: EPA withdrew its PFAS permit guidance and has no final PFAS effluent limits.",
-      "Harms: the narrower WOTUS options would remove federal protection from most ephemeral streams and many wetlands."
+      "Inherency: CRS confirms no PFAS ELG is final, and the August guidance rescission removes the only federal direction to states on PFAS in permits.",
+      "Harms: the 'perennial flow' WOTUS options would take many ephemeral streams and wetlands out of NPDES coverage.",
+      "Timing: the Oct 19 NPDES comment deadline shows reform is active but still undecided, so a plan can shape its direction."
     ],
     "neg": [
-      "Uniqueness: Congress and EPA are already reforming CWA permitting, so the plan may be non-unique or collide with the Senate deal.",
-      "States CP: states keep NPDES authority to regulate PFAS without federal guidance."
+      "Uniqueness: WOTUS, NPDES definitions and PFAS ELGs are all in rulemaking, so the status quo may already deliver reform.",
+      "States CP: states hold NPDES authority and can set PFAS limits without federal guidance.",
+      "Timeframe: PFAS ELG and permit-application rules are slated for 2027, so the plan may duplicate agency work."
     ],
     "date": "2026-10-09"
   },
@@ -54,6 +56,22 @@
         "§502(7)"
       ],
       "debate": "Aff: harms evidence for narrowing 'navigable waters' — fewer waters means unpermitted discharges. Useful for jurisdiction-restoring affs.",
+      "kind": "news",
+      "added": "2026-10-09"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Regulating PFAS Under the Clean Water Act (CRS In Focus, updated Sept. 30)",
+      "source": "Congressional Research Service",
+      "url": "https://www.everycrsreport.com/files/2026-09-30_IF12148_7411d6bc05ccbbc70ee4e9ed6f8ffb1569d3d172.html",
+      "summary": "CRS reports that EPA has finalized no PFAS effluent guideline, that the Organic Chemicals/Plastics/Synthetic Fibers proposal slated for July 2026 and the metal finishing proposal (Feb. 2027) are still pending, and that EPA rescinded its 2022 state NPDES PFAS guidance in August 2026. A rule on PFAS monitoring in permit applications is not expected to be final until about May 2027.",
+      "category": "pfas",
+      "sections": [
+        "§301",
+        "§304",
+        "§402"
+      ],
+      "debate": "Inherency card for Aff: no binding federal PFAS discharge limits exist and the schedule keeps slipping; Neg can cite the pending ELG rulemakings as uniqueness that the plan is already underway.",
       "kind": "news",
       "added": "2026-10-09"
     },

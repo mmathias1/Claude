@@ -7,9 +7,11 @@ Data lives in dashboard/news.json. Subcommands:
   add FILE         Merge news items from a JSON list in FILE (dedupes by URL).
   brief FILE       Replace today's brief with the JSON object in FILE.
   build            Stamp the update time and write dist/discharge-docket.html.
+  extract HTML     Load news.json from a published copy of the page (the live page is
+                   the source of truth; scheduled runs cannot push to git).
   validate         Check news.json against the expected shape.
 
-Typical daily run:  fr -> add new.json -> brief brief.json -> build
+Typical daily run:  extract live.html -> fr -> add new.json -> brief brief.json -> build
 """
 import datetime as dt
 import html
@@ -214,6 +216,19 @@ def cmd_brief(path):
     print("brief updated")
 
 
+def cmd_extract(path):
+    page = Path(path).read_text()
+    start = page.index("const DATA = ") + len("const DATA = ")
+    payload, _ = json.JSONDecoder().raw_decode(page[start:])
+    payload.pop("categories", None)
+    for key in ("updated", "brief", "news", "federal_register"):
+        if key not in payload:
+            sys.exit(f"extract: page data has no {key!r}")
+    save(payload)
+    print(f"extracted {len(payload['news'])} news, {len(payload['federal_register'])} federal register "
+          f"(page updated {payload['updated']})")
+
+
 def cmd_validate():
     data = load()
     for i, it in enumerate(data["news"]):
@@ -239,7 +254,7 @@ def main(argv):
         sys.exit(__doc__)
     cmd, args = argv[0], argv[1:]
     {"fr": cmd_fr, "add": cmd_add, "brief": cmd_brief, "build": cmd_build,
-     "validate": cmd_validate}.get(cmd, lambda *_: sys.exit(__doc__))(*args)
+     "extract": cmd_extract, "validate": cmd_validate}.get(cmd, lambda *_: sys.exit(__doc__))(*args)
 
 
 if __name__ == "__main__":

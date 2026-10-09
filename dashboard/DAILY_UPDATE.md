@@ -1,7 +1,11 @@
 # Discharge Docket — daily update runbook
 
 Live page: https://claude.ai/artifact/Qj7YkqxEHaJZGTcWgpmmo4
-Branch: `claude/sweet-edison-dxo22d` (this branch holds the data history)
+Code: branch `claude/sweet-edison-dxo22d` of mmathias1/claude.
+
+**The live page is the source of truth for the data.** Scheduled runs can read
+the repo but cannot push to it, so each run starts by pulling the current data
+out of the published page, not from `news.json` in git.
 
 Resolution: *The United States Federal Government should reform its policy or
 policies for the regulation of non-agricultural wastewater discharge into
@@ -10,7 +14,11 @@ navigable waters.*
 ## Steps
 
 1. `git fetch origin claude/sweet-edison-dxo22d && git checkout claude/sweet-edison-dxo22d && git pull origin claude/sweet-edison-dxo22d`
-2. `python3 dashboard/update.py fr` — refreshes Federal Register documents (EPA + Army Corps).
+2. Read the live page with the Artifact tool (`action: "read"`, `url` = the live
+   page above). The result names the file it saved the full HTML to. Run
+   `python3 dashboard/update.py extract <that file>` to load the current data.
+   If the read fails, stop and report it; do not publish from git's copy.
+   Then `python3 dashboard/update.py fr` — refreshes Federal Register documents (EPA + Army Corps).
 3. Find new stories. Run several WebSearch queries for the last ~3 days, e.g.
    Clean Water Act news, NPDES permit, effluent limitations guidelines, PFAS
    wastewater discharge, WOTUS / waters of the United States, Section 401
@@ -44,8 +52,7 @@ navigable waters.*
 7. `python3 dashboard/update.py build` (validates, stamps the time, writes
    `dashboard/dist/discharge-docket.html`).
 8. Publish with the Artifact tool: `file_path` = `dashboard/dist/discharge-docket.html`,
-   `url` = the live page above. If the tool asks you to read the artifact first,
-   read it, then publish the freshly built file (the page is fully regenerated
-   from `news.json`, so the new build replaces the old one).
-9. Commit `dashboard/news.json` with message `Docket update YYYY-MM-DD` and
-   `git push -u origin claude/sweet-edison-dxo22d`.
+   `url` = the live page above. The page is fully regenerated from `news.json`,
+   so the new build replaces the old one.
+9. Do not commit or push; the scheduled session has no push access. Finish
+   with a short summary of the stories added.
