@@ -1,0 +1,395 @@
+<title>Discharge Docket</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap">
+<style>
+/* Layout: a docket sheet. Resolution and brief up top, then a news column beside a rail of open comment periods and Federal Register actions. */
+:root {
+  --bg: #f2f5f5;
+  --surface: #ffffff;
+  --ink: #0f2a30;
+  --muted: #4c6368;
+  --line: #d3dddf;
+  --accent: #0a6971;
+  --accent-soft: #e0eeee;
+  --deadline: #8f5400;
+  --deadline-soft: #f7ead4;
+  --urgent: #b3261e;
+  --urgent-soft: #fbe3e1;
+  --aff: #1d5ca3;
+  --neg: #85366f;
+  --font-display: "Archivo", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+  --font-body: "Public Sans", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0b1518; --surface: #112126; --ink: #dce7e8; --muted: #93a9ad; --line: #24393e;
+    --accent: #5cc3cb; --accent-soft: #133a3e; --deadline: #e3a548; --deadline-soft: #3a2b12;
+    --urgent: #ff8a80; --urgent-soft: #431a17; --aff: #84b5f0; --neg: #dc9fcd; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0b1518; --surface: #112126; --ink: #dce7e8; --muted: #93a9ad; --line: #24393e;
+  --accent: #5cc3cb; --accent-soft: #133a3e; --deadline: #e3a548; --deadline-soft: #3a2b12;
+  --urgent: #ff8a80; --urgent-soft: #431a17; --aff: #84b5f0; --neg: #dc9fcd; color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 15px; line-height: 1.55; }
+a { color: inherit; }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.wrap { max-width: 1180px; margin: 0 auto; padding-inline: clamp(16px, 4vw, 32px); padding-block: 28px 56px; display: grid; gap: 28px; }
+
+.mono { font-family: var(--font-mono); font-size: 12.5px; font-variant-numeric: tabular-nums; }
+.label { font-family: var(--font-mono); font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+h1, h2, h3 { font-family: var(--font-display); font-stretch: 82%; margin: 0; text-wrap: balance; }
+
+/* Masthead */
+.mast { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 16px 32px; border-bottom: 3px solid var(--ink); padding-bottom: 14px; }
+.mast h1 { font-size: clamp(38px, 6.4vw, 64px); font-weight: 800; line-height: .95; letter-spacing: -.01em; }
+.mast .tag { margin: 8px 0 0; color: var(--muted); max-width: 52ch; }
+.stamp { display: grid; gap: 2px; text-align: right; }
+.stamp strong { font-family: var(--font-mono); font-size: 13px; font-weight: 500; }
+@media (max-width: 640px) { .stamp { text-align: left; } }
+
+/* Resolution */
+.resolution { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 20px 32px; }
+.resolution blockquote { margin: 0; font-family: var(--font-display); font-stretch: 90%; font-weight: 600; font-size: clamp(19px, 2.3vw, 24px); line-height: 1.3; text-wrap: pretty; }
+.resolution blockquote b { font-weight: 600; text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 3px; text-underline-offset: 4px; }
+.resolution blockquote .lead { display: block; font-family: var(--font-mono); font-size: 12px; font-weight: 500; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); margin-bottom: 6px; }
+.terms { display: grid; gap: 10px; margin: 0; }
+.terms div { display: grid; gap: 1px; }
+.terms dt { font-weight: 700; font-size: 14px; }
+.terms dd { margin: 0; color: var(--muted); font-size: 13.5px; }
+.terms dd .mono { color: var(--accent); }
+@media (max-width: 820px) { .resolution { grid-template-columns: minmax(0, 1fr); } }
+
+/* Stat strip */
+.stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border-block: 1px solid var(--line); }
+.stat { padding: 14px 16px; display: grid; gap: 4px; align-content: start; min-width: 0; }
+.stat + .stat { border-left: 1px solid var(--line); }
+.stat .num { font-family: var(--font-display); font-stretch: 80%; font-weight: 700; font-size: 34px; line-height: 1; font-variant-numeric: tabular-nums; }
+.stat .num.small { font-size: 22px; line-height: 1.15; }
+.stat .sub { font-size: 13px; color: var(--muted); overflow-wrap: anywhere; }
+@media (max-width: 760px) {
+  .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .stat:nth-child(3) { border-left: 0; }
+  .stat:nth-child(n+3) { border-top: 1px solid var(--line); }
+}
+
+/* Brief */
+.brief { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 20px clamp(16px, 3vw, 28px); display: grid; gap: 14px; }
+.brief-head { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 16px; align-items: baseline; }
+.brief h2 { font-size: 24px; font-weight: 700; }
+.brief p { margin: 0; max-width: 78ch; font-size: 16px; }
+.sides { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px 28px; }
+.side h3 { font-family: var(--font-mono); font-stretch: 100%; font-size: 12px; font-weight: 500; letter-spacing: .08em; text-transform: uppercase; margin-bottom: 6px; }
+.side.aff h3 { color: var(--aff); }
+.side.neg h3 { color: var(--neg); }
+.side ul { margin: 0; padding-left: 18px; display: grid; gap: 6px; font-size: 14px; }
+@media (max-width: 680px) { .sides { grid-template-columns: minmax(0, 1fr); } }
+
+/* Main grid */
+.main { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 36px; align-items: start; }
+@media (max-width: 960px) { .main { grid-template-columns: minmax(0, 1fr); } }
+.section-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; border-bottom: 1px solid var(--ink); padding-bottom: 8px; margin-bottom: 12px; }
+.section-head h2 { font-size: 26px; font-weight: 700; }
+
+/* Filters */
+.filters { display: grid; gap: 10px; margin-bottom: 6px; }
+.filter-row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.search { flex: 1 1 220px; min-width: 0; font: inherit; font-size: 14px; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 4px; padding: 7px 10px; }
+.chip { font: inherit; font-size: 13px; color: var(--ink); background: transparent; border: 1px solid var(--line); border-radius: 999px; padding: 4px 11px; cursor: pointer; white-space: nowrap; }
+.chip:hover { border-color: var(--accent); }
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+.chip .n { font-family: var(--font-mono); font-size: 11px; opacity: .75; margin-left: 4px; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 4px; overflow: hidden; }
+.seg button { font-family: var(--font-mono); font-size: 12px; color: var(--ink); background: transparent; border: 0; padding: 6px 10px; cursor: pointer; }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+
+/* News list */
+.news { list-style: none; margin: 0; padding: 0; }
+.story { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 4px 16px; padding: 16px 0; border-bottom: 1px solid var(--line); }
+.story .when { display: grid; gap: 2px; align-content: start; padding-top: 3px; }
+.story .when .ago { color: var(--muted); font-size: 11.5px; }
+.story .body { display: grid; gap: 6px; min-width: 0; }
+.story .meta { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; font-size: 13px; color: var(--muted); }
+.story .cat { font-weight: 600; color: var(--accent); }
+.story h3 { font-family: var(--font-body); font-stretch: 100%; font-size: 17px; font-weight: 700; line-height: 1.35; }
+.story h3 a { text-decoration: none; }
+.story h3 a:hover { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
+.story p { margin: 0; font-size: 14.5px; }
+.story .debate { font-size: 13.5px; color: var(--muted); border-left: 2px solid var(--line); padding-left: 10px; }
+.story .debate strong { color: var(--ink); font-weight: 600; }
+.sec { font-family: var(--font-mono); font-size: 11.5px; color: var(--ink); background: var(--accent-soft); border-radius: 3px; padding: 1px 6px; }
+.new-badge { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: .06em; text-transform: uppercase; color: var(--accent); border: 1px solid var(--accent); border-radius: 3px; padding: 0 5px; }
+.empty { padding: 28px 0; color: var(--muted); }
+@media (max-width: 520px) { .story { grid-template-columns: minmax(0, 1fr); } .story .when { display: flex; gap: 8px; } }
+
+/* Rail */
+.rail { display: grid; gap: 32px; }
+.comment-list, .fr-list { list-style: none; margin: 0; padding: 0; display: grid; }
+.cp { display: grid; gap: 6px; padding: 12px 14px; background: var(--deadline-soft); border-radius: 6px; }
+.cp + .cp { margin-top: 8px; }
+.cp.urgent { background: var(--urgent-soft); }
+.cp .due { display: flex; justify-content: space-between; gap: 8px; font-family: var(--font-mono); font-size: 12px; color: var(--deadline); font-weight: 500; }
+.cp.urgent .due { color: var(--urgent); }
+.cp a { font-weight: 600; font-size: 14px; line-height: 1.35; text-decoration: none; }
+.cp a:hover { text-decoration: underline; }
+.cp .ref { font-size: 12px; color: var(--muted); overflow-wrap: anywhere; }
+.fr { display: grid; gap: 4px; padding: 11px 0; border-bottom: 1px solid var(--line); }
+.fr .top { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.type { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: .05em; text-transform: uppercase; border-radius: 3px; padding: 1px 6px; border: 1px solid var(--line); color: var(--muted); }
+.type.rule { border-color: var(--ink); color: var(--ink); font-weight: 500; }
+.type.proposed { border-color: var(--accent); color: var(--accent); }
+.fr a { font-size: 14px; line-height: 1.35; text-decoration: none; }
+.fr a:hover { text-decoration: underline; }
+.fr .ref { font-size: 12px; color: var(--muted); overflow-wrap: anywhere; }
+.more { font: inherit; font-size: 13px; color: var(--accent); background: none; border: 0; padding: 10px 0 0; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+.none { color: var(--muted); font-size: 14px; margin: 0; }
+
+footer { border-top: 1px solid var(--line); padding-top: 16px; display: grid; gap: 8px; color: var(--muted); font-size: 13px; }
+footer p { margin: 0; max-width: 90ch; }
+</style>
+
+<div class="wrap">
+  <header class="mast">
+    <div>
+      <div class="label">2026–27 Policy Debate · Water Pollution Topic</div>
+      <h1>Discharge Docket</h1>
+      <p class="tag">Daily news, agency actions and debate angles on federal regulation of non-agricultural wastewater.</p>
+    </div>
+    <div class="stamp">
+      <span class="label">Last updated</span>
+      <strong id="updated">—</strong>
+      <span class="label" style="letter-spacing:.04em;text-transform:none">Refreshes every morning</span>
+    </div>
+  </header>
+
+  <section class="resolution" aria-label="Resolution">
+    <blockquote>
+      <span class="lead">Resolved</span>
+      The United States Federal Government should <b>reform</b> its policy or policies for the regulation of <b>non-agricultural</b> <b>wastewater discharge</b> into <b>navigable waters</b>.
+    </blockquote>
+    <dl class="terms">
+      <div><dt>Discharge</dt><dd>“Any addition of any pollutant to navigable waters from any point source.” <span class="mono">CWA §502(12)</span></dd></div>
+      <div><dt>Navigable waters</dt><dd>“The waters of the United States, including the territorial seas.” Scope set by the WOTUS rule and <i>Sackett</i>. <span class="mono">§502(7)</span></dd></div>
+      <div><dt>Non-agricultural</dt><dd>The Act already excludes agricultural stormwater and irrigation return flows from “point source.” <span class="mono">§502(14)</span></dd></div>
+    </dl>
+  </section>
+
+  <section class="stats" aria-label="At a glance">
+    <div class="stat"><span class="label">Stories, last 7 days</span><span class="num" id="s-week">0</span><span class="sub" id="s-week-sub"></span></div>
+    <div class="stat"><span class="label">Open comment periods</span><span class="num" id="s-open">0</span><span class="sub">EPA and Army Corps</span></div>
+    <div class="stat"><span class="label">Next deadline</span><span class="num small" id="s-next">None open</span><span class="sub" id="s-next-sub"></span></div>
+    <div class="stat"><span class="label">Federal Register, 90 days</span><span class="num" id="s-fr">0</span><span class="sub" id="s-fr-sub"></span></div>
+  </section>
+
+  <section class="brief" id="brief" aria-labelledby="brief-title">
+    <div class="brief-head">
+      <h2 id="brief-title">Today’s brief</h2>
+      <span class="label" id="brief-date"></span>
+    </div>
+    <p id="brief-summary"></p>
+    <div class="sides">
+      <div class="side aff"><h3>Affirmative angles</h3><ul id="brief-aff"></ul></div>
+      <div class="side neg"><h3>Negative angles</h3><ul id="brief-neg"></ul></div>
+    </div>
+  </section>
+
+  <div class="main">
+    <section aria-labelledby="news-title">
+      <div class="section-head">
+        <h2 id="news-title">News</h2>
+        <span class="label" id="news-count"></span>
+      </div>
+      <div class="filters">
+        <div class="filter-row">
+          <label class="label" for="q" style="position:absolute;left:-9999px">Search stories</label>
+          <input class="search" id="q" type="search" placeholder="Search headlines, sources, summaries">
+          <div class="seg" role="group" aria-label="Time range" id="range">
+            <button type="button" data-days="7">7d</button>
+            <button type="button" data-days="30">30d</button>
+            <button type="button" data-days="90" aria-pressed="true">90d</button>
+            <button type="button" data-days="0">All</button>
+          </div>
+        </div>
+        <div class="filter-row" id="cats" role="group" aria-label="Category"></div>
+      </div>
+      <ol class="news" id="news"></ol>
+    </section>
+
+    <aside class="rail">
+      <section aria-labelledby="cp-title">
+        <div class="section-head"><h2 id="cp-title">Open for comment</h2></div>
+        <ul class="comment-list" id="comments"></ul>
+      </section>
+      <section aria-labelledby="fr-title">
+        <div class="section-head"><h2 id="fr-title">Federal Register</h2><span class="label">EPA · Army Corps</span></div>
+        <ul class="fr-list" id="fr"></ul>
+        <button class="more" type="button" id="fr-more" hidden>Show all</button>
+      </section>
+    </aside>
+  </div>
+
+  <footer>
+    <p><strong>How this works.</strong> Each morning Claude searches for new reporting on Clean Water Act discharge regulation, writes a short summary and debate note for each story, and pulls EPA and Army Corps documents from the Federal Register API. Agricultural runoff stories are left out unless they bear on the topic’s limits.</p>
+    <p>Summaries, briefs and debate angles are AI-written research aids. Read and cite the original source before cutting a card.</p>
+  </footer>
+</div>
+
+<script>
+const DATA = /*__DATA__*/null;
+(function () {
+  if (!DATA) return;
+  const $ = (id) => document.getElementById(id);
+  const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  const parse = (s) => { const [y, m, d] = s.split("-").map(Number); return new Date(y, m - 1, d); };
+  const now = new Date();
+  const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const daysFrom = (s) => Math.round((parse(s) - today) / 86400000);
+  const fmt = (s) => { const d = parse(s); return `${MONTHS[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`; };
+  const fmtShort = (s) => { const d = parse(s); return `${MONTHS[d.getMonth()]} ${d.getDate()}`; };
+  const ago = (s) => { const n = -daysFrom(s); return n <= 0 ? "today" : n === 1 ? "yesterday" : n < 60 ? `${n} days ago` : ""; };
+  const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+  const link = (href, text, cls) => { const a = el("a", cls, text); a.href = href; a.target = "_blank"; a.rel = "noopener"; return a; };
+  const cats = DATA.categories;
+  const shortTitle = (t) => t.length > 60 ? t.slice(0, 57).replace(/\s+\S*$/, "") + "…" : t;
+
+  // Stamp
+  if (DATA.updated) {
+    const u = new Date(DATA.updated);
+    $("updated").textContent = `${MONTHS[u.getMonth()]} ${u.getDate()}, ${u.getFullYear()} · ${u.toLocaleTimeString([], { hour: "numeric", minute: "2-digit" })}`;
+  }
+
+  // Stats
+  const news = DATA.news.slice().sort((a, b) => b.date.localeCompare(a.date));
+  const week = news.filter((n) => daysFrom(n.date) >= -7);
+  $("s-week").textContent = week.length;
+  $("s-week-sub").textContent = `${news.length} stories tracked`;
+  const fr = DATA.federal_register || [];
+  const open = fr.filter((d) => d.comments_close_on && daysFrom(d.comments_close_on) >= 0)
+    .sort((a, b) => a.comments_close_on.localeCompare(b.comments_close_on));
+  $("s-open").textContent = open.length;
+  if (open.length) {
+    const n = daysFrom(open[0].comments_close_on);
+    $("s-next").textContent = fmtShort(open[0].comments_close_on);
+    $("s-next-sub").textContent = `${n === 0 ? "Closes today" : n === 1 ? "Closes tomorrow" : `In ${n} days`} · ${shortTitle(open[0].title)}`;
+  }
+  const fr90 = fr.filter((d) => daysFrom(d.date) >= -90);
+  $("s-fr").textContent = fr90.length;
+  const rules = fr90.filter((d) => d.type === "Rule" || d.type === "Proposed Rule").length;
+  $("s-fr-sub").textContent = `${rules} rule${rules === 1 ? "" : "s"} or proposed rule${rules === 1 ? "" : "s"}`;
+
+  // Brief
+  const b = DATA.brief;
+  if (b) {
+    $("brief-date").textContent = fmt(b.date);
+    $("brief-summary").textContent = b.summary;
+    for (const [id, items] of [["brief-aff", b.aff], ["brief-neg", b.neg]]) {
+      for (const t of items) $(id).append(el("li", null, t));
+    }
+  } else {
+    $("brief").hidden = true;
+  }
+
+  // News filters
+  const state = { cat: "all", days: 90, q: "" };
+  try {
+    const saved = JSON.parse(localStorage.getItem("docket-filters") || "null");
+    if (saved && typeof saved === "object") Object.assign(state, { cat: saved.cat || "all", days: saved.days ?? 90 });
+  } catch (e) {}
+  const remember = () => { try { localStorage.setItem("docket-filters", JSON.stringify({ cat: state.cat, days: state.days })); } catch (e) {} };
+  if (state.cat !== "all" && !news.some((n) => n.category === state.cat)) state.cat = "all";
+
+  const catWrap = $("cats");
+  const counts = {};
+  for (const n of news) counts[n.category] = (counts[n.category] || 0) + 1;
+  const mkChip = (key, label, count) => {
+    const c = el("button", "chip", label);
+    c.type = "button"; c.dataset.cat = key;
+    if (count != null) c.append(el("span", "n", String(count)));
+    c.addEventListener("click", () => { state.cat = key; remember(); render(); });
+    catWrap.append(c);
+  };
+  mkChip("all", "All", news.length);
+  for (const key of Object.keys(cats)) if (counts[key]) mkChip(key, cats[key], counts[key]);
+
+  document.querySelectorAll("#range button").forEach((btn) => {
+    btn.addEventListener("click", () => { state.days = Number(btn.dataset.days); remember(); render(); });
+  });
+  $("q").addEventListener("input", (e) => { state.q = e.target.value.trim().toLowerCase(); render(); });
+
+  function render() {
+    catWrap.querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", String(c.dataset.cat === state.cat)));
+    document.querySelectorAll("#range button").forEach((btn) => btn.setAttribute("aria-pressed", String(Number(btn.dataset.days) === state.days)));
+    const list = news.filter((n) =>
+      (state.cat === "all" || n.category === state.cat) &&
+      (!state.days || daysFrom(n.date) >= -state.days) &&
+      (!state.q || `${n.title} ${n.summary} ${n.source} ${n.debate || ""}`.toLowerCase().includes(state.q)));
+    $("news-count").textContent = `${list.length} of ${news.length}`;
+    const ol = $("news");
+    ol.replaceChildren();
+    if (!list.length) {
+      ol.append(el("li", "empty", news.length ? "No stories match these filters. Try a wider time range or another category." : "No stories yet. The first daily update will add them."));
+      return;
+    }
+    for (const n of list) {
+      const li = el("li", "story");
+      const when = el("div", "when");
+      when.append(el("span", "mono", fmtShort(n.date)), el("span", "ago", ago(n.date)));
+      const body = el("div", "body");
+      const meta = el("div", "meta");
+      meta.append(el("span", "cat", cats[n.category] || n.category), el("span", null, n.source));
+      for (const s of n.sections || []) meta.append(el("span", "sec", s));
+      if (n.added && daysFrom(n.added) === 0 && DATA.updated && daysFrom(DATA.updated.slice(0, 10)) === 0) meta.append(el("span", "new-badge", "New"));
+      const h = el("h3"); h.append(link(n.url, n.title));
+      body.append(meta, h, el("p", null, n.summary));
+      if (n.debate) {
+        const d = el("div", "debate"); d.append(el("strong", null, "Debate use: "), document.createTextNode(n.debate));
+        body.append(d);
+      }
+      li.append(when, body);
+      ol.append(li);
+    }
+  }
+  render();
+
+  // Comment periods
+  const cl = $("comments");
+  if (!open.length) cl.append(el("li", "none", "No EPA or Army Corps water comment periods are open right now."));
+  for (const d of open) {
+    const n = daysFrom(d.comments_close_on);
+    const li = el("li", "cp" + (n <= 7 ? " urgent" : ""));
+    const due = el("div", "due");
+    due.append(el("span", null, `Due ${fmt(d.comments_close_on)}`), el("span", null, n === 0 ? "Today" : n === 1 ? "1 day" : `${n} days`));
+    li.append(due, link(d.url, d.title), el("div", "ref mono", [d.citation, d.docket].filter(Boolean).join(" · ")));
+    cl.append(li);
+  }
+
+  // Federal Register list
+  const frl = $("fr");
+  const LIMIT = 10;
+  let showAll = false;
+  function renderFr() {
+    frl.replaceChildren();
+    const rows = showAll ? fr : fr.slice(0, LIMIT);
+    if (!rows.length) frl.append(el("li", "none", "No matching Federal Register documents in the last year."));
+    for (const d of rows) {
+      const li = el("li", "fr");
+      const top = el("div", "top");
+      const t = d.type || "Document";
+      top.append(el("span", "type" + (t === "Rule" ? " rule" : t === "Proposed Rule" ? " proposed" : ""), t), el("span", "mono", fmt(d.date)));
+      li.append(top, link(d.url, d.title), el("div", "ref mono", [d.citation, d.cfr, d.docket].filter(Boolean).join(" · ")));
+      frl.append(li);
+    }
+    const more = $("fr-more");
+    more.hidden = fr.length <= LIMIT;
+    more.textContent = showAll ? "Show fewer" : `Show all ${fr.length}`;
+  }
+  $("fr-more").addEventListener("click", () => { showAll = !showAll; renderFr(); });
+  renderFr();
+})();
+</script>

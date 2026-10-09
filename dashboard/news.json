@@ -1,0 +1,496 @@
+{
+  "updated": "2026-10-09T20:52:21+00:00",
+  "brief": {
+    "summary": "Comments on the supplemental WOTUS proposal close today (Oct 9), and the Senate's bipartisan permitting package is drawing fire for narrowing §401 state and tribal review ahead of floor action expected in early November. A separate EPA proposal to rewrite NPDES definitions and exclusions is open for comment until Oct 19.",
+    "aff": [
+      "Inherency: EPA withdrew its PFAS permit guidance and has no final PFAS effluent limits.",
+      "Harms: the narrower WOTUS options would remove federal protection from most ephemeral streams and many wetlands."
+    ],
+    "neg": [
+      "Uniqueness: Congress and EPA are already reforming CWA permitting, so the plan may be non-unique or collide with the Senate deal.",
+      "States CP: states keep NPDES authority to regulate PFAS without federal guidance."
+    ],
+    "date": "2026-10-09"
+  },
+  "news": [
+    {
+      "date": "2026-10-08",
+      "title": "SBA Office of Advocacy supports additional options for defining \"waters of the United States\"",
+      "source": "SBA Office of Advocacy",
+      "url": "https://advocacy.sba.gov/2026/10/08/advocacy-supports-additional-options-for-defining-waters-of-the-united-states",
+      "summary": "The SBA's small-business advocate filed comments backing the agencies' September supplemental WOTUS proposal and its narrower jurisdiction options.",
+      "category": "wotus",
+      "sections": [
+        "§502(7)"
+      ],
+      "debate": "Neg: small-business compliance-cost evidence against expanding federal jurisdiction. Aff: shows the status quo trend is toward narrower coverage.",
+      "kind": "news",
+      "added": "2026-10-09"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Over 120 organizations oppose Clean Water Act provisions in Senate permitting bill",
+      "source": "Center for Biological Diversity",
+      "url": "https://biologicaldiversity.org/w/news/press-releases/over-120-organizations-oppose-attacks-on-clean-water-act-in-permitting-bill-2026-10-07/",
+      "summary": "Groups urged Congress to drop CWA language in the Bipartisan American Affordability and Jobs Act of 2026, which would narrow state and tribal §401 review, impose a clear-and-convincing burden on denials, and allow 10-year permit terms.",
+      "category": "congress",
+      "sections": [
+        "§401",
+        "§402",
+        "§404"
+      ],
+      "debate": "Uniqueness: Congress may reform CWA permitting this fall. Aff can claim a different reform; Neg can argue the plan collides with the permitting deal.",
+      "kind": "news",
+      "added": "2026-10-09"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "The public waters rollback that \"should be avoided at all costs\"",
+      "source": "Outdoor Life",
+      "url": "https://www.outdoorlife.com/conservation/clean-water-act-rule-change/",
+      "summary": "American Rivers argues the proposed WOTUS rule would leave ephemeral and intermittent streams without federal protection, on top of the wetland losses after Sackett, and urges hunters and anglers to comment before October 9.",
+      "category": "wotus",
+      "sections": [
+        "§502(7)"
+      ],
+      "debate": "Aff: harms evidence for narrowing 'navigable waters' — fewer waters means unpermitted discharges. Useful for jurisdiction-restoring affs.",
+      "kind": "news",
+      "added": "2026-10-09"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "EPA pulls guidance on addressing PFAS in wastewater permits",
+      "source": "Waste Dive",
+      "url": "https://www.wastedive.com/news/epa-pulls-pfas-wastewater-permit-guidance-memo-state-authority/830767/",
+      "summary": "EPA rescinded its 2022 memo that gave states model NPDES language for monitoring and limiting PFAS, saying it caused confusion ahead of new effluent guidelines; EWG says states lose a key tool.",
+      "category": "pfas",
+      "sections": [
+        "§402",
+        "§304"
+      ],
+      "debate": "Aff: inherency for a PFAS effluent-limits plan — no federal PFAS ELGs and now no permit guidance. Neg: states keep full authority to act (states CP).",
+      "kind": "news",
+      "added": "2026-10-09"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "New agency WOTUS proposal would eliminate the \"wet season\" concept",
+      "source": "NAHB",
+      "url": "https://www.nahb.org/blog/2026/09/wotus-comment-period",
+      "summary": "EPA and the Army Corps' supplemental proposal would limit jurisdiction to perennial waters and wetlands with a continuous perennial surface connection, adding options to the November 2025 proposal.",
+      "category": "wotus",
+      "sections": [
+        "§502(7)"
+      ],
+      "debate": "Uniqueness for both sides: the status quo is actively redefining 'navigable waters', the resolution's key jurisdictional term.",
+      "kind": "news",
+      "added": "2026-10-09"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "EPA proposes ending NPDES permit coverage for vessel discharges beyond state waters",
+      "source": "U.S. EPA (fact sheet)",
+      "url": "https://www.epa.gov/system/files/documents/2026-09/npdes-definitions-and-exclusions-fact-sheet.pdf",
+      "summary": "The proposed rule would redefine \"discharge of a pollutant\" in 40 CFR 122 so that additions from vessels not secured to the seabed in the contiguous zone (3–12 nm) or ocean need no NPDES permit, citing overlap with MPRSA and VIDA. Comments are due October 19.",
+      "category": "npdes",
+      "sections": [
+        "§402",
+        "§502(12)"
+      ],
+      "debate": "Topicality and uniqueness: a live federal reform of what counts as a discharge, with seafood processors and seabed mining as named examples. Neg can use it to argue the status quo is already reforming.",
+      "kind": "news",
+      "added": "2026-10-09"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Regulating PFAS under the Clean Water Act (CRS In Focus, updated)",
+      "source": "Congressional Research Service",
+      "url": "https://www.congress.gov/crs-product/IF12148",
+      "summary": "CRS reports that EPA has finalized no PFAS effluent guidelines and has not designated any PFAS as a CWA toxic pollutant, and summarizes pending OCPSF, metal finishing and landfill leachate rulemakings.",
+      "category": "pfas",
+      "sections": [
+        "§304",
+        "§307"
+      ],
+      "debate": "Neutral background card on the PFAS regulatory gap; good for defining what an ELG plan would add.",
+      "kind": "news",
+      "added": "2026-10-09"
+    }
+  ],
+  "federal_register": [
+    {
+      "date": "2026-09-09",
+      "title": "Updated Definition of “Waters of the United States”",
+      "type": "Proposed Rule",
+      "abstract": "The purpose of this supplemental notice of proposed rulemaking is for the U.S. Environmental Protection Agency (EPA) and the Department of the Army (\"the agencies\") to supplement and seek additional comment on certain aspects of an earlier proposal, published on November 20, 2025, to revise the regulations defining the scope of waters federally covered under the Clean Water Act in light of the U.S. Supreme Court's 2023 decision in Sackett v. Environmental Protection Agency. As stated in the agencies' November 20, 2025 Notice of Proposed Rulemaking (NPRM), the agencies intend for this rulemakin",
+      "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18317/updated-definition-of-waters-of-the-united-states",
+      "document_number": "2026-18317",
+      "citation": "91 FR 57284",
+      "docket": "EPA-HQ-OW-2025-0322",
+      "cfr": "33 CFR 328, 40 CFR 120",
+      "comments_close_on": "2026-10-09",
+      "agencies": [
+        "Defense Department",
+        "Engineers Corps",
+        "Environmental Protection Agency"
+      ],
+      "category": "wotus"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Updates to the National Pollutant Discharge Elimination System Definitions and Exclusions",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) proposes to revise a regulatory definition under the Clean Water Act (CWA) permitting regulations pertaining to discharges in the contiguous zone and ocean. The proposal would revise the regulatory definition of \"discharge of a pollutant\" to reflect and faithfully implement the statutory exclusion of vessels and other floating craft that add pollutants in the contiguous zone or the ocean from inclusion in the definition of \"discharge of a pollutant\" or \"discharge\", and thus, from National Pollutant Discharge Elimination System (NPDES) program requ",
+      "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18134/updates-to-the-national-pollutant-discharge-elimination-system-definitions-and-exclusions",
+      "document_number": "2026-18134",
+      "citation": "91 FR 56819",
+      "docket": "EPA-HQ-OW-2026-6965",
+      "cfr": "40 CFR 122",
+      "comments_close_on": "2026-10-19",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "npdes"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Proposed Modification of NPDES General Permit for Federal Aquaculture Facilities and Aquaculture Facilities Located in Indian Country in Washington (WAG130000)",
+      "type": "Notice",
+      "abstract": "The Environmental Protection Agency (EPA), Region 10, proposes to modify the National Pollutant Discharge Elimination System (NPDES) General Permit for Federal Aquaculture Facilities and Aquaculture Facilities Located in Indian Country in Washington (draft modified GP). The draft modified GP incorporates facility-specific conditions for Leavenworth National Fish Hatchery which will allow the facility to obtain coverage under the draft modified GP. Additionally, the draft modified GP proposes a modification to the chlorine monitoring requirements for all facilities covered under the GP. The dra",
+      "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16565/proposed-modification-of-npdes-general-permit-for-federal-aquaculture-facilities-and-aquaculture",
+      "document_number": "2026-16565",
+      "citation": "91 FR 52688",
+      "docket": "FRL-13413-01-R10",
+      "cfr": null,
+      "comments_close_on": "2026-09-28",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "npdes"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Proposed Reissuance of NPDES General Permit for Oil and Gas Exploration Facilities in Federal Waters of Cook Inlet (AKG51000)",
+      "type": "Notice",
+      "abstract": "The Environmental Protection Agency (EPA), Region 10, proposes to reissue the National Pollutant Discharge Elimination System (NPDES) General Permit for Oil and Gas Exploration Facilities in Federal Waters of Cook Inlet (draft GP). The draft GP proposes to authorize certain discharges of pollutants into the federal waters of Cook Inlet from oil and gas exploration facilities subject to limits and requirements designed to minimize pollution and protect water quality.",
+      "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16089/proposed-reissuance-of-npdes-general-permit-for-oil-and-gas-exploration-facilities-in-federal-waters",
+      "document_number": "2026-16089",
+      "citation": "91 FR 51172",
+      "docket": "FRL-13410-01-R10",
+      "cfr": null,
+      "comments_close_on": "2026-09-21",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "npdes"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "National Pollutant Discharge Elimination System (NPDES) 2027 Issuance of General Permit for Stormwater Discharges From Construction Activities",
+      "type": "Notice",
+      "abstract": "All 10 Environmental Protection Agency (EPA) Regions are proposing for public comment the draft 2027 National Pollutant Discharge Elimination System (NPDES) general permit for stormwater discharges from construction activities, also referred to as the \"proposed 2027 Construction General Permit (CGP)\" or the \"proposed permit.\" The proposed permit, if finalized, will replace the existing 2022 CGP that will expire on February 17, 2027. The EPA proposes to issue this permit for five (5) years, and to provide permit coverage to eligible operators in all areas of the country where the EPA is the NPD",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15656/national-pollutant-discharge-elimination-system-npdes-2027-issuance-of-general-permit-for-stormwater",
+      "document_number": "2026-15656",
+      "citation": "91 FR 48862",
+      "docket": "EPA-HQ-OW-2025-0760",
+      "cfr": null,
+      "comments_close_on": "2026-09-02",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "municipal"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Proposed Consent Decree, Clean Water Act",
+      "type": "Notice",
+      "abstract": "In accordance with the Environmental Protection Agency (EPA) Administrator's March 18, 2022 memorandum titled \"Consent Decrees and Settlement Agreements to resolve Environmental Claims Against the Agency,\" notice is hereby given of a proposed consent decree in Environmental Defense Alliance et al. v. Zeldin., No. 3:25-cv-930 (M.D. Fl.). On August 19, 2025, the Environmental Defense Alliance and Waterkeepers Florida filed a complaint in the U.S. District Court for the Middle District of Florida. The complaint alleges that the EPA failed to perform a mandatory duty under the Clean Water Act (CWA",
+      "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14865/proposed-consent-decree-clean-water-act",
+      "document_number": "2026-14865",
+      "citation": "91 FR 46432",
+      "docket": "EPA-HQ-OGC-2026-5083, FRL-13497-01-OGC",
+      "cfr": null,
+      "comments_close_on": "2026-08-24",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "courts"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "Draft Guidance for Reducing Risk From Perfluorooctanoic Acid (PFOA) and Perfluorooctane Sulfonic Acid (PFOS) in Biosolids; Establishment of a Public Docket; Request for Feedback",
+      "type": "Notice",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) is making available a draft memorandum that would, if finalized, provide guidance to operators of wastewater treatment plants (WWTPs) and related facilities, landowners and farmers, State and Tribal water agencies, and the public on ways to reduce potential risks posed by perfluorooctanoic acid (PFOA) and perfluorooctane sulfonic acid (PFOS) in biosolids, as well as seeking feedback on potential next steps. The EPA is soliciting public comments on the draft memorandum and next steps for 60 days. This draft guidance memorandum does not have the for",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13615/draft-guidance-for-reducing-risk-from-perfluorooctanoic-acid-pfoa-and-perfluorooctane-sulfonic-acid",
+      "document_number": "2026-13615",
+      "citation": "91 FR 41020",
+      "docket": "EPA-HQ-OW-2026-2509",
+      "cfr": null,
+      "comments_close_on": "2026-09-04",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "pfas"
+    },
+    {
+      "date": "2026-05-18",
+      "title": "Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category-Unmanaged Combustion Residual Leachate",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA or Agency) is proposing a Clean Water Act (CWA) regulation to revise the technology- based effluent limitations guidelines and standards (ELGs) promulgated in the 2024 \"Supplemental Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category\" (2024 ELG). This proposed regulation for the steam electric power generating point source category applies to unmanaged combustion residual leachate (CRL) at existing sources and is estimated to reduce costs by $446 to $1,090 million dollars annually at a 3 perce",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09895/effluent-limitations-guidelines-and-standards-for-the-steam-electric-power-generating-point-source",
+      "document_number": "2026-09895",
+      "citation": "91 FR 28487",
+      "docket": "EPA-HQ-OW-2009-0819",
+      "cfr": "40 CFR 423",
+      "comments_close_on": "2026-06-17",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "elg"
+    },
+    {
+      "date": "2026-05-07",
+      "title": "Virginia; Waters of the Northern Neck Peninsula Vessel Sewage No-Discharge Zone; Final Affirmative Determination",
+      "type": "Notice",
+      "abstract": "The U.S. Environmental Protection Agency (EPA), Region 3, has determined that adequate facilities for the safe and sanitary removal and treatment of sewage from all vessels are reasonably available for waters within Virginia's Northern Neck peninsula to support the designation of a vessel sewage no-discharge zone for such waters. Pursuant to the Clean Water Act section 312, this notice constitutes the EPA's final affirmative determination on the application submitted by Virginia on September 10, 2025. Following this final affirmative determination, Virginia may designate certain waters within ",
+      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09042/virginia-waters-of-the-northern-neck-peninsula-vessel-sewage-no-discharge-zone-final-affirmative",
+      "document_number": "2026-09042",
+      "citation": "91 FR 24863",
+      "docket": "EPA-R03-OW-2025-2004",
+      "cfr": null,
+      "comments_close_on": null,
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "municipal"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "EPA's Clean Water Act (CWA) Financial Capability Assessment (FCA) Guidance; Request for Comment",
+      "type": "Notice",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) invites written feedback on its Clean Water Act (CWA) Financial Capability Assessment (FCA) Guidance. The FCA Guidance provides information on how to assess a community's financial capability as part of negotiating implementation schedules under both permits and enforcement agreements. In addition, the FCA Guidance identifies specific methodologies, supplementing the Interim Economic Guidance for Water Quality Standards (1995; https://www.epa.gov/system/files/documents/2024-01/interim- economic-guidance-water-quality-standards-workbook-1995.pdf), ",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05864/epas-clean-water-act-cwa-financial-capability-assessment-fca-guidance-request-for-comment",
+      "document_number": "2026-05864",
+      "citation": "91 FR 14694",
+      "docket": "EPA-HQ-OW-2026-1090",
+      "cfr": null,
+      "comments_close_on": "2026-05-26",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "municipal"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Notice of Solicitation of Input on Potential Future Changes to Nationwide Permits; Establishment of a Public Docket; Request for Input",
+      "type": "Notice",
+      "abstract": "The U.S. Army Corps of Engineers (Corps) is seeking input from all interested parties on ways to increase the efficiency of the nationwide permit program. The Corps will consider this input in future rulemaking related to the nationwide permits. The nationwide permits authorize activities under Section 404 of the Clean Water Act and Section 10 of the Rivers and Harbors Act.",
+      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05051/notice-of-solicitation-of-input-on-potential-future-changes-to-nationwide-permits-establishment-of-a",
+      "document_number": "2026-05051",
+      "citation": "91 FR 12591",
+      "docket": null,
+      "cfr": null,
+      "comments_close_on": "2026-05-15",
+      "agencies": [
+        "Defense Department",
+        "Engineers Corps"
+      ],
+      "category": "wotus"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "New Mexico Statewide Municipal Separate Storm Sewer System (MS4) General Permit Proposal",
+      "type": "Notice",
+      "abstract": "The Environmental Protection Agency (EPA) Region 6 is providing notice of a proposed National Pollutant Discharge Elimination System (NPDES) Statewide general permit for storm water discharges from municipal separate storm sewer systems (MS4s) located in urbanized areas in the State of New Mexico. This permit offers discharge authorization to regulated MS4s within the boundaries of the Bureau of the Census-designated 2000, 2010, and 2020 urbanized area and any other MS4s designated by the Director as needing a MS4 permit.",
+      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04322/new-mexico-statewide-municipal-separate-storm-sewer-system-ms4-general-permit-proposal",
+      "document_number": "2026-04322",
+      "citation": "91 FR 10604",
+      "docket": "EPA-R06-OW-2026-1289",
+      "cfr": null,
+      "comments_close_on": "2026-05-04",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "municipal"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "New Mexico and Oklahoma Statewide Tribal Municipal Separate Storm Sewer System (MS4) General Permit Proposal",
+      "type": "Notice",
+      "abstract": "The Environmental Protection Agency (EPA) Region 6 is providing notice of a proposed National Pollutant Discharge Elimination System (NPDES) statewide general permit for storm water discharges from Tribal municipal separate storm sewer systems (MS4s) located in urbanized areas in the states of New Mexico and Oklahoma. This permit offers discharge authorization to regulated MS4s within the boundaries of the Bureau of the Census-designated 2000, 2010, and 2020 urbanized area and any other MS4s designated by the Director as needing a MS4 permit.",
+      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04319/new-mexico-and-oklahoma-statewide-tribal-municipal-separate-storm-sewer-system-ms4-general-permit",
+      "document_number": "2026-04319",
+      "citation": "91 FR 10602",
+      "docket": "EPA-R06-OW-2026-1288",
+      "cfr": null,
+      "comments_close_on": "2026-05-04",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "municipal"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "Clean Water Act Hazardous Substance Facility Response Plans; Amendment Reconsideration",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA or Agency) is publishing an advance notice of proposed rulemaking to seek feedback on reconsidering Clean Water Act Hazardous Substance Facility Response Plans regulations that were published in the Federal Register on March 28, 2024. This advanced notice of proposed rulemaking seeks feedback on potential amendments to address implementation challenges and clarify requirements from the 2024 final rule. Any resulting proposed amendments will align with Administration priorities and would prioritize opportunities to address regulatory burden while ma",
+      "url": "https://www.federalregister.gov/documents/2026/02/18/2026-03220/clean-water-act-hazardous-substance-facility-response-plans-amendment-reconsideration",
+      "document_number": "2026-03220",
+      "citation": "91 FR 7415",
+      "docket": "EPA-HQ-OLEM-2025-1707",
+      "cfr": "40 CFR 118",
+      "comments_close_on": "2026-03-20",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "npdes"
+    },
+    {
+      "date": "2026-01-30",
+      "title": "Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category-Deadline Extensions; Correction",
+      "type": "Rule",
+      "abstract": "The U.S. Environmental Protection Agency (the EPA or Agency) is issuing a notice to correct some of the deadlines listed in the final rule, \"Effluent Limitations Guidelines and Standards for the Steam Electric Generating Point Source Category-- Deadline Extensions,\" which published in the Federal Register on December 31, 2025. After publication, the EPA became aware of post- signature typographical errors in the published regulatory text concerning compliance deadlines for pretreatment standards and related reporting recordkeeping requirements in the rule. This correction will ensure that the ",
+      "url": "https://www.federalregister.gov/documents/2026/01/30/2026-01913/effluent-limitations-guidelines-and-standards-for-the-steam-electric-power-generating-point-source",
+      "document_number": "2026-01913",
+      "citation": "91 FR 4016",
+      "docket": "EPA-HQ-OW-2009-0819",
+      "cfr": "40 CFR 423",
+      "comments_close_on": null,
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "elg"
+    },
+    {
+      "date": "2026-01-27",
+      "title": "Proposed Modification of NPDES General Permit for New and Existing Sources and New Dischargers in the Offshore Subcategory of the Oil and Gas Extraction Category for the Western Portion of the Outer Continental Shelf of the Gulf of America (GMG290000)",
+      "type": "Notice",
+      "abstract": "The Regional Administrator of Region 6 is seeking comments on a proposed narrow modification to the National Pollutant Discharge Elimination System (NPDES) General Permit No. GMG290000 for existing and new sources and new dischargers in the Offshore Subcategory of the Oil and Gas Extraction Point Source Category, located in and discharging to the Outer Continental Shelf offshore of Louisiana and Texas. The discharge of produced water to that portion of the Outer Continental Shelf from Offshore Subcategory facilities located in the territorial seas of Louisiana and Texas is also authorized by t",
+      "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01469/proposed-modification-of-npdes-general-permit-for-new-and-existing-sources-and-new-dischargers-in",
+      "document_number": "2026-01469",
+      "citation": "91 FR 3492",
+      "docket": "EPA-R06-OW-2025-0307",
+      "cfr": null,
+      "comments_close_on": "2026-03-30",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "npdes"
+    },
+    {
+      "date": "2026-01-15",
+      "title": "Updating the Water Quality Certification Regulations",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) is publishing this proposed rule to update and clarify several substantive and procedural requirements for water quality certification under Clean Water Act (CWA or the Act) section 401. CWA section 401 is a direct grant of authority to States (and Tribes that have been approved for \"treatment as a State\" status) to review for compliance with appropriate Federal, State, and Tribal water quality requirements any discharge into waters of the United States that may result from a proposed activity that requires a Federal license or permit. This propos",
+      "url": "https://www.federalregister.gov/documents/2026/01/15/2026-00754/updating-the-water-quality-certification-regulations",
+      "document_number": "2026-00754",
+      "citation": "91 FR 2008",
+      "docket": "EPA-HQ-OW-2025-2929",
+      "cfr": "40 CFR 121",
+      "comments_close_on": "2026-02-17",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "certification"
+    },
+    {
+      "date": "2026-01-08",
+      "title": "Reissuance and Modification of Nationwide Permits",
+      "type": "Rule",
+      "abstract": "Nationwide Permits (NWPs) authorize activities under Section 404 of the Clean Water Act and Section 10 of the Rivers and Harbors Act of 1899 that have no more than minimal individual and cumulative adverse environmental effects. The NWPs help protect the aquatic environment and the public interest by providing incentives to reduce impacts to jurisdictional waters. In this final action, the U.S. Army Corps of Engineers (Corps) is reissuing 56 existing nationwide permits (NWPs), general conditions, and definitions, with some modifications. The Corps is also issuing one new NWP.",
+      "url": "https://www.federalregister.gov/documents/2026/01/08/2026-00121/reissuance-and-modification-of-nationwide-permits",
+      "document_number": "2026-00121",
+      "citation": "91 FR 768",
+      "docket": "Docket Number: COE-2025-0002",
+      "cfr": null,
+      "comments_close_on": null,
+      "agencies": [
+        "Defense Department",
+        "Engineers Corps"
+      ],
+      "category": "wotus"
+    },
+    {
+      "date": "2025-12-31",
+      "title": "Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category-Deadline Extensions",
+      "type": "Rule",
+      "abstract": "The U.S. Environmental Protection Agency (the EPA or Agency) is finalizing a Clean Water Act (CWA) rule to extend deadlines promulgated in the 2024 \"Supplemental Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category\" (2024 rule), update the 2024 rule's transfer provisions to allow facilities to switch between compliance alternatives, and create authority for alternative applicability dates and paperwork submission dates, based on site-specific factors.",
+      "url": "https://www.federalregister.gov/documents/2025/12/31/2025-24102/effluent-limitations-guidelines-and-standards-for-the-steam-electric-power-generating-point-source",
+      "document_number": "2025-24102",
+      "citation": "90 FR 61328",
+      "docket": "EPA-HQ-OW-2009-0819",
+      "cfr": "40 CFR 423",
+      "comments_close_on": null,
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "elg"
+    },
+    {
+      "date": "2025-12-08",
+      "title": "Virginia-Waters of the Northern Neck Peninsula Vessel Sewage No-Discharge Zone; Tentative Affirmative Determination",
+      "type": "Notice",
+      "abstract": "Pursuant to the Clean Water Act, the Commonwealth of Virginia has determined that the protection and enhancement of the quality of the waters of the Northern Neck peninsula require greater environmental protection. As such, Virginia has submitted an application to the U.S. Environmental Protection Agency (EPA or Agency), Region 3, for a determination that adequate facilities for the safe and sanitary removal and treatment of sewage from all vessels are reasonably available, so that Virginia may completely prohibit the discharge from all vessels of any sewage, whether treated or not, into such ",
+      "url": "https://www.federalregister.gov/documents/2025/12/08/2025-22152/virginia-waters-of-the-northern-neck-peninsula-vessel-sewage-no-discharge-zone-tentative-affirmative",
+      "document_number": "2025-22152",
+      "citation": "90 FR 56748",
+      "docket": "EPA-R03-OW-2025-2004",
+      "cfr": null,
+      "comments_close_on": "2026-01-07",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "municipal"
+    },
+    {
+      "date": "2025-11-28",
+      "title": "Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category-Initial Notification Date Extension; Withdrawal of Direct Final Rule",
+      "type": "Rule",
+      "abstract": "Because the U.S. Environmental Protection Agency (EPA) received adverse comment, it is withdrawing the direct final rule entitled, \"Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category--Initial Notification Date Extension,\" published in the Federal Register on October 2, 2025.",
+      "url": "https://www.federalregister.gov/documents/2025/11/28/2025-21426/effluent-limitations-guidelines-and-standards-for-the-steam-electric-power-generating-point-source",
+      "document_number": "2025-21426",
+      "citation": "90 FR 54588",
+      "docket": "EPA-HQ-OW-2009-0819",
+      "cfr": "40 CFR 423",
+      "comments_close_on": null,
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "elg"
+    },
+    {
+      "date": "2025-11-20",
+      "title": "Updated Definition of “Waters of the United States”",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) and the U.S. Department of the Army (\"the agencies\") are publishing for public comment a proposed rule revising the regulations defining the scope of waters federally covered under the Federal Water Pollution Control Act, as amended, also known as the Clean Water Act, in light of the U.S. Supreme Court's 2023 decision in Sackett v. Environmental Protection Agency. With this proposed rule, the agencies intend to provide greater regulatory certainty and increase Clean Water Act program predictability and consistency by clarifying the definition of \"",
+      "url": "https://www.federalregister.gov/documents/2025/11/20/2025-20402/updated-definition-of-waters-of-the-united-states",
+      "document_number": "2025-20402",
+      "citation": "90 FR 52498",
+      "docket": "EPA-HQ-OW-2025-0322",
+      "cfr": "33 CFR 328, 40 CFR 120",
+      "comments_close_on": "2026-01-05",
+      "agencies": [
+        "Defense Department",
+        "Engineers Corps",
+        "Environmental Protection Agency"
+      ],
+      "category": "wotus"
+    },
+    {
+      "date": "2025-11-17",
+      "title": "National Oil and Hazardous Substances Pollution Contingency Plan; Extension of Transition Period for New Product Schedule Listing",
+      "type": "Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) is taking interim final action to revise the transition date in recent amendments to the requirements in Subpart J of the National Oil and Hazardous Substances Pollution Contingency Plan (NCP) that governs the use of dispersants, other chemicals, and other spill mitigating substances when responding to oil discharges into jurisdictional waters of the United States. Specifically, the EPA is revising the date until which products listed on the current NCP Product Schedule will remain conditionally listed and available for use from December 12, 2025,",
+      "url": "https://www.federalregister.gov/documents/2025/11/17/2025-19918/national-oil-and-hazardous-substances-pollution-contingency-plan-extension-of-transition-period-for",
+      "document_number": "2025-19918",
+      "citation": "90 FR 51181",
+      "docket": "EPA-HQ-OPA-2006-0090",
+      "cfr": "40 CFR 300",
+      "comments_close_on": "2025-12-17",
+      "agencies": [
+        "Environmental Protection Agency"
+      ],
+      "category": "wotus"
+    }
+  ]
+}
