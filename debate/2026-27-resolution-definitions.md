@@ -79,7 +79,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “resolved” (5)
 
-**"Resolved" means to declare or decide by a formal resolution and vote: the resolution is a formal proposal for the body to adopt, not mere opinion**
+**"Resolved" means to declare or decide by a formal resolution and vote**
 
 **Merriam-Webster Dictionary**, Merriam-Webster, “Resolve Definition & Meaning”, Last updated 3 Oct 2026, <https://www.merriam-webster.com/dictionary/resolve>, Accessed 2026-10-09 — *dictionary*
 
@@ -109,7 +109,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**In Robert's Rules, "Resolved" is the operative word of a formal written main motion; replace it with "I move" and the resolution becomes a plain motion**
+**In Robert's Rules, a written main motion takes the form of a resolution beginning "Resolved, That"; replace "Resolved" with "I move" and it becomes a motion**
 
 **Robert's Rules of Order Revised (1915), robertsrules.org**, Henry M. Robert, “Robert's Rules of Order Revised - I”, n.d., <https://robertsrules.org/rror-01.htm>, Accessed 2026-10-09 — *other*
 
@@ -119,7 +119,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**In policy debate the resolution is phrased "Resolved:" followed by the subject; it is a proposition of policy**
+**Policy debate resolutions are worded "Resolved:" followed by the subject of the debate**
 
 **Wikibooks, Debate**, Wikibooks contributors, “Debate/Motions and resolutions”, Last edited 11 April 2021, <https://en.wikibooks.org/wiki/Debate/Motions_and_resolutions>, Accessed 2026-10-09 — *debate*
 
@@ -131,7 +131,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “the” (5)
 
-**"The" particularizes the subject it precedes and is a word of limitation, as opposed to the generalizing force of "a" or "an"; it points to one specific thing**
+**"The" particularizes the subject it precedes and is a word of limitation, as opposed to the generalizing force of "a" or "an"**
 
 **American Bus Ass'n v. Slater, 231 F.3d 1 (D.C. Cir. 2000)**, U.S. Court of Appeals for the D.C. Circuit, “American Bus Association v. Slater, No. 99-5390”, Nov. 14, 2000, <https://media.cadc.uscourts.gov/opinions/docs/2000/11/99-5390a.txt>, Accessed 2026-10-09 — *court case*
 
@@ -151,7 +151,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**"The" signals a unique or particular member of its class (e.g., "the President"), pointing to one specific entity**
+**"The" indicates that the following noun is a unique or particular member of its class**
 
 **Merriam-Webster Dictionary**, Merriam-Webster, “THE Definition & Meaning”, Last updated 24 Feb 2026, <https://www.merriam-webster.com/dictionary/the>, Accessed 2026-10-09 — *dictionary*
 
@@ -183,7 +183,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “united states federal government” (6)
 
-**Clean Water Act: the Federal Government includes departments, agencies and instrumentalities of the executive, legislative, AND judicial branches, all bound by state and federal water pollution requirements**
+**Clean Water Act: federal departments, agencies and instrumentalities of all three branches that have property or activities resulting in pollutant discharge must comply with federal, state and local water pollution requirements**
 
 **33 U.S.C. 1323(a) (Clean Water Act sec. 313)**, U.S. Congress, “33 U.S. Code § 1323 - Federal facilities pollution control”, n.d., <https://www.law.cornell.edu/uscode/text/33/1323>, Accessed 2026-10-09 — *statute*
 
@@ -193,17 +193,17 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Federal Tort Claims Act: "Federal agency" includes the executive departments, the judicial and legislative branches, military departments, independent establishments and federal instrumentalities (excluding contractors)**
+**Federal Tort Claims Act: "Federal agency" includes executive departments, the judicial and legislative branches, military departments, independent establishments and federal instrumentality corporations, but not contractors**
 
 **28 U.S.C. 2671 (Federal Tort Claims Act)**, U.S. Congress, “28 U.S. Code § 2671 - Definitions”, n.d., <https://www.law.cornell.edu/uscode/text/28/2671>, Accessed 2026-10-09 — *statute*
 
-<sub>Context: 28 U.S.C. 2671, definition of "Federal agency"</sub>
+<sub>Context: 28 U.S.C. 2671, definition of "Federal agency" as used in that chapter and sections 1346(b) and 2401(b)</sub>
 
 > As used in this chapter and sections 1346(b) and 2401(b) of this title, the term "Federal agency" includes the executive departments, the judicial and legislative branches, the military departments, independent establishments of the United States, and corporations primarily acting as instrumentalities or agencies of the United States, but does not include any contractor with the United States.
 
 ---
 
-**The federal government is the Congress, the President and executive branch, and the federal courts: three branches checked against one another**
+**Wex: government is divided into three branches: Legislative (Congress), Executive (led by the President), and Judicial (headed by the Supreme Court)**
 
 **Wex Legal Dictionary (Cornell Legal Information Institute)**, Wex Definitions Team, Cornell LII, “separation of powers”, Last reviewed September 2024, <https://www.law.cornell.edu/wex/separation_of_powers>, Accessed 2026-10-09 — *legal dictionary*
 
@@ -223,7 +223,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**The official U.S. Government Manual describes the Federal Government as comprising the executive, judicial, and legislative branches**
+**The U.S. Government Manual, the "official handbook" of the Federal Government, covers agencies and programs of the executive, judicial, and legislative branches**
 
 **The United States Government Manual**, Office of the Federal Register, National Archives and Records Administration, “Welcome to the United States Government Manual”, n.d., <https://www.usgovernmentmanual.gov/>, Accessed 2026-10-09 — *government agency*
 
@@ -313,7 +313,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Governmental sense: "United States" means the federal corporations, agencies, departments and instrumentalities of the U.S., not the territory**
+**Governmental sense: "United States" means a federal corporation, agency, department, commission, board or other entity, or instrumentality of the U.S.**
 
 **28 U.S.C. 3002(15) (Federal Debt Collection Procedures Act)**, U.S. Congress, “28 U.S. Code § 3002 - Definitions”, n.d., <https://www.law.cornell.edu/uscode/text/28/3002>, Accessed 2026-10-09 — *statute*
 
@@ -463,7 +463,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Black's: government = political organs collectively, regardless of function or level (all branches), the machinery by which sovereign power is expressed**
+**Black's: government = the political organs of a country collectively, regardless of function or level; the machinery by which sovereign power is expressed**
 
 **Black's Law Dictionary, 8th ed.**, Bryan A. Garner (ed.), “Black's Law Dictionary (8th ed. 2004), entry "government"”, 2004, <https://archive.org/download/blacks-law-dictionary-8th-edition-bryan-a-garner-bryan-a-garner-bryan-a-garner-8/Blacks%20Law%20Dictionary%208th%20Edition%20(Bryan%20A_%20Garner)%208th%20Edition%2C%202004%20--%20West%20Publishers_djvu.txt>, Accessed 2026-10-09 — *legal dictionary*
 
@@ -525,7 +525,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**"Should" expresses obligation, propriety, or expediency (desirability/duty)**
+**"Should" expresses obligation, propriety, or expediency**
 
 **Merriam-Webster Dictionary**, Merriam-Webster, “SHOULD Definition & Meaning”, Last updated 2 Jul 2026, <https://www.merriam-webster.com/dictionary/should>, Accessed 2026-10-09 — *dictionary*
 
@@ -545,7 +545,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**"Should" can express what is probable or expected (likely, not certain)**
+**"Should" can express what is probable or expected**
 
 **Merriam-Webster Dictionary**, Merriam-Webster, “SHOULD Definition & Meaning”, Last updated 2 Jul 2026, <https://www.merriam-webster.com/dictionary/should>, Accessed 2026-10-09 — *dictionary*
 
@@ -627,7 +627,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Reform implies DRASTIC change (vs. 'amend' = slight change), but always an improving, corrective change**
+**"Reform" implies drastic change (vs. "amend," usually slight change), as an improving, corrective change**
 
 **Merriam-Webster Dictionary**, Merriam-Webster, “Reform Definition & Meaning (synonym discussion)”, n.d., <https://www.merriam-webster.com/dictionary/reform>, Accessed 2026-10-09 — *dictionary*
 
@@ -637,7 +637,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Legal sense of 'reform' is to put a writing into corrected form to match the parties' agreement - a correction of an existing instrument**
+**Legal sense of "reform" is to put a writing into a corrected form that more accurately reflects the parties' agreement**
 
 **Merriam-Webster Dictionary of Law**, Merriam-Webster, “Reform - Legal Definition”, n.d., <https://www.merriam-webster.com/legal/reform>, Accessed 2026-10-09 — *legal dictionary*
 
@@ -667,7 +667,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Reform means to change to a better state by alteration, substitution, OR ABOLITION - sweeping change is allowed if it improves**
+**"Reform" means to change to a better state; improve by alteration, substitution, or abolition**
 
 **Dictionary.com (Random House Unabridged)**, Dictionary.com, “Reform Definition & Meaning”, n.d., <https://www.dictionary.com/browse/reform>, Accessed 2026-10-09 — *dictionary*
 
@@ -677,7 +677,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Reform is an improvement, especially in the structure of something (e.g., a system) - requires improvement, not just difference**
+**"Reform" means to make an improvement, especially by changing a person's behaviour or the structure of something**
 
 **Cambridge Dictionary**, Cambridge University Press, “REFORM | English meaning”, n.d., <https://dictionary.cambridge.org/dictionary/english/reform>, Accessed 2026-10-09 — *dictionary*
 
@@ -707,7 +707,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Reform may either restore the old order OR 'reconstruct the present order to advantage' - a change from worse to better**
+**Reform is any proceeding that brings back a better order of things or reconstructs the present order to advantage; a change from worse to better**
 
 **The Century Dictionary (via Wordnik)**, William Dwight Whitney (ed.), “reform - definition and meaning”, n.d., <https://www.wordnik.com/words/reform>, Accessed 2026-10-09 — *dictionary*
 
@@ -737,7 +737,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**'Reform' implies improvement, not just change (NYT and AP style guides) - the word presupposes faults in the existing policy**
+**"Reform" suggests not just change but improvement (NYT and AP style guides); AP says it generally implies faults or shortcomings in the subject**
 
 **Columbia Journalism Review**, Merrill Perlman, “A whole lot of reformation”, April 17, 2017, <https://www.cjr.org/?p=66656>, Accessed 2026-10-09 — *news*
 
@@ -767,7 +767,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Reform policy must be 'particularly ambitious' regarding change, highly relevant to actors and publicly salient - ordinary policy change is not necessarily reform**
+**Reform should be defined as a policy that is particularly ambitious with regard to change, highly relevant to affected actors, and attracts special attention**
 
 **International Encyclopedia of Political Science (SAGE)**, Bertrand Badie, Dirk Berg-Schlosser & Leonardo Morlino (eds.), “Reform”, n.d., <https://sk.sagepub.com/ency/edvol/embed/intlpoliticalscience/chpt/reform>, Accessed 2026-10-09 — *academic*
 
@@ -787,7 +787,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Reform is any systematic change in policies or institutions - with NO implication of approval, i.e., neutral change rather than necessarily improvement**
+**Proposed neutral definition: reform is "any program of systematic change in policies or institutions," with no implication of approval or disapproval**
 
 **John Quiggin (blog), citing Raymond Williams' Keywords**, John Quiggin, “Word for Wednesday: Reform”, June 25, 2003, <https://johnquiggin.com/2003/06/25/word-for-wednesday-reform-definition/>, Accessed 2026-10-09 — *academic*
 
@@ -819,7 +819,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “its” (5)
 
-**"Its" means of or relating to it or itself, especially as possessor, agent, or object of an action (the actor's own policy)**
+**"Its" means of or relating to it or itself, especially as possessor, agent, or object of an action**
 
 **Merriam-Webster Dictionary**, Merriam-Webster, “ITS Definition & Meaning”, Last updated 4 Nov 2025, <https://www.merriam-webster.com/dictionary/its>, Accessed 2026-10-09 — *dictionary*
 
@@ -859,7 +859,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**"Its" means belonging to or associated with a thing previously mentioned (association, not strictly ownership)**
+**"Its" means belonging to or associated with a thing previously mentioned or easily identified**
 
 **New Oxford American Dictionary (3rd ed. 2010), as reproduced in Edwards, Water Resources Topicality Evidence (Baylor/UIL)**, Augustus Stevenson (ed.), quoted by Dr. Rich Edwards, Baylor University, “Definitions of Terms on the Water Resources Topic (2021-22 National Policy Topic)”, 2021-22, <https://www.uiltexas.org/files/academics/Topicality_on_the_Water_Resources_Topic.pdf>, Accessed 2026-10-09 — *debate*
 
@@ -955,7 +955,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 **West Virginia DHHR Office of Environmental Health Services (public-health policy definition)**, WV DHHR Office of Environmental Health Services, “WV OEHS Policies”, n.d., <https://oehs.wvdhhr.org/as/wv-oehs-policies/>, Accessed 2026-10-09 — *government agency*
 
-<sub>Context: 'What is a Policy?' box on a state environmental-health agency page (other results attribute this same wording to CDC's 'Definition of Policy' page, which was blocked to the fetcher)</sub>
+<sub>Context: 'What is a Policy?' box on a state environmental-health agency page</sub>
 
 > Policy is a law, regulation, procedure, administrative action, incentive, or voluntary practice of governments and other institutions. Policy decisions are frequently reflected in resource allocations.
 
@@ -991,7 +991,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Political science: public policy is what government does or does not do about a problem, and may take the form of law, regulation, or the whole set of laws and regulations on an issue**
+**Political science: public policy is what government does or does not do about a problem; it may take the form of law, regulation, or the set of all laws and regulations on an issue**
 
 **UC Berkeley Library Guides**, UC Berkeley Library, “Getting Started - Public Policy”, n.d., <https://guides.lib.berkeley.edu/Public-Policy>, Accessed 2026-10-09 — *academic*
 
@@ -1001,7 +1001,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Dye: public policy is 'whatever governments choose to do or not to do' - includes deliberate inaction (and is criticized as too broad)**
+**Dye: public policy is "whatever governments choose to do or not to do" - includes deliberate inaction; described as a controversial concept**
 
 **Wikipedia (quoting Thomas R. Dye, 1972)**, Wikipedia contributors, “Public policy”, n.d., <https://en.wikipedia.org/wiki/Public_policy>, Accessed 2026-10-09 — *encyclopedia*
 
@@ -1031,7 +1031,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Public policy (the body of 'policies') rests on constitutional laws and regulations, judicial interpretations, and regulations authorized by legislation**
+**Institutionalist view: the foundation of public policy is national constitutional laws and regulations, plus judicial interpretations and regulations generally authorized by legislation**
 
 **Wikipedia**, Wikipedia contributors, “Public policy”, n.d., <https://en.wikipedia.org/wiki/Public_policy>, Accessed 2026-10-09 — *encyclopedia*
 
@@ -1051,7 +1051,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Supreme Court: the Dictionary Act means a singular term can apply to multiple things (many banks), but it does not convert 'a' into 'several' or reshape a single unit**
+**Supreme Court: the Dictionary Act lets a singular term apply to multiple persons, parties, or things, but does not transform "a" into "several"**
 
 **Supreme Court of the United States, Niz-Chavez v. Garland, 593 U.S. ___ (2021)**, Justice Gorsuch (opinion of the Court), “Niz-Chavez v. Garland, No. 19-863”, April 29, 2021, <https://www.law.cornell.edu/supremecourt/text/19-863>, Accessed 2026-10-09 — *court case*
 
@@ -1061,7 +1061,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**CRS: an elementary rule of statutory construction is that the singular includes the plural, and vice versa (with a tire-warning example)**
+**CRS: an elementary rule of statutory construction is that the singular includes the plural, and vice versa**
 
 **Congressional Research Service**, Larry M. Eig, “Statutory Interpretation: General Principles and Recent Trends (97-589)”, March 30, 2006 - September 24, 2014 (version range shown), <https://www.everycrsreport.com/reports/97-589.html>, Accessed 2026-10-09 — *congressional research*
 
@@ -1075,7 +1075,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 **Code of Federal Regulations (Cornell LII)**, U.S. Department of Housing and Urban Development, “24 CFR § 201.4 - Rules of construction”, n.d., <https://www.law.cornell.edu/cfr/text/24/201.4>, Accessed 2026-10-09 — *regulation*
 
-<sub>Context: 24 CFR 201.4 (example of the standard federal rule of construction)</sub>
+<sub>Context: 24 CFR 201.4; applies "as used in this part"</sub>
 
 > As used in this part, and unless the context indicates otherwise, words in the singular include the plural, and words in the plural include the singular.
 
@@ -1133,7 +1133,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Supreme Court: 'or' is often used as a careless substitute for 'and' - context decides whether 'or' is disjunctive**
+**Supreme Court: the word "or" is often used as a careless substitute for "and"**
 
 **Supreme Court of the United States, De Sylva v. Ballentine, 351 U.S. 570 (1956)**, Justice Harlan (opinion of the Court), “De Sylva v. Ballentine, 351 U.S. 570”, June 11, 1956, <https://www.law.cornell.edu/supremecourt/text/351/570>, Accessed 2026-10-09 — *court case*
 
@@ -1185,7 +1185,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**"For" can mean "intended to be given to" - the policy is intended for the regulation of discharge**
+**"For" can mean "intended to be given to" (recipient sense, e.g., a message for you)**
 
 **Cambridge Dictionary**, “FOR | English meaning”, undated (accessed 2026-10-09), <https://dictionary.cambridge.org/dictionary/english/for>, Accessed 2026-10-09 — *dictionary*
 
@@ -1197,7 +1197,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “regulation” (14)
 
-**Regulation is a rule or order issued by a government agency, often with the force of law, made under power delegated by a statute and published in the Federal Register/CFR (narrow, agency-rule reading)**
+**Regulation is a rule or order issued by a government agency, often with the force of law (narrow, agency-rule reading); federal regulations appear in the Federal Register and CFR**
 
 **Merriam-Webster Legal Dictionary**, “Legal Definition of REGULATION”, Last Updated: 3 Oct 2026, <https://www.merriam-webster.com/legal/regulation>, Accessed 2026-10-09 — *legal dictionary*
 
@@ -1227,7 +1227,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Regulation is a rule or order, as opposed to the act of regulating; the older legal sense stresses an order prescribed for management or government**
+**Regulation is the act of regulating, or a rule or order prescribed for management or government; a regulating principle; a precept**
 
 **Black's Law Dictionary (2nd ed.) via The Law Dictionary**, “REGULATION”, Black's 2nd ed. (1910), <https://thelawdictionary.org/regulation/>, Accessed 2026-10-09 — *legal dictionary*
 
@@ -1247,7 +1247,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**A regulation is a rule made and maintained by a governmental agency under delegated legislative power to control conduct within its jurisdiction**
+**A regulation is a rule made and maintained by an authority, typically a governmental agency, to control or govern conduct within its jurisdiction; agencies are delegated legislative power to create them**
 
 **Cornell Legal Information Institute, Wex Legal Dictionary**, Wex Definitions Team, “regulation”, Last reviewed June 2024, <https://www.law.cornell.edu/wex/regulation>, Accessed 2026-10-09 — *legal dictionary*
 
@@ -1257,7 +1257,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Under the Administrative Procedure Act a "rule" (what agencies publish as regulations) is any agency statement of general or particular applicability and future effect that implements, interprets, or prescribes law or policy - a very broad statutory definition**
+**Under the Administrative Procedure Act, a "rule" is any agency statement of general or particular applicability and future effect designed to implement, interpret, or prescribe law or policy**
 
 **5 U.S.C. 551(4) (Administrative Procedure Act), Cornell LII**, U.S. Congress, “5 U.S. Code Sec. 551 - Definitions”, n.d., <https://www.law.cornell.edu/uscode/text/5/551>, Accessed 2026-10-09 — *statute*
 
@@ -1277,7 +1277,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Regulation is one of government's basic tools to implement public policy; regulations flow from statutes, and "rule" and "regulation" are used interchangeably**
+**Regulation is one of government's basic tools to implement public policy; regulations generally start with an act of Congress, and "rule" and "regulation" are often used interchangeably**
 
 **Congressional Research Service (via EveryCRSReport.com)**, Curtis W. Copeland, “The Federal Rulemaking Process: An Overview (RL32240)”, February 22, 2011, <https://www.everycrsreport.com/files/20110222_RL32240_de19230147d109389407261f38d2da654e2e4855.html>, Accessed 2026-10-09 — *congressional research*
 
@@ -1287,7 +1287,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**EPA: regulations are mandatory requirements written under congressional authorization that implement statutes and bind individuals, businesses, governments, and others**
+**EPA: regulations are mandatory requirements, written under congressional authorization to implement laws, that can apply to individuals, businesses, governments, and others**
 
 **U.S. Environmental Protection Agency**, EPA, “Regulations”, Last updated on July 9, 2026, <https://www.epa.gov/laws-regulations/regulations>, Accessed 2026-10-09 — *government agency*
 
@@ -1297,7 +1297,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Broad reading: regulation is any government intervention in the private domain or the binding legal rule implementing it, by any legislative, executive, administrative, or judicial body - broader than agency rules or "restrictions"**
+**Broad reading: regulation is government intervention in the private domain, or the binding legal rule implementing it, created by any legislative, executive, administrative, or judicial body**
 
 **Yale Journal on Regulation (Bulletin)**, Barak Orbach, “What is Regulation?”, July 25, 2016, <https://www.yalejreg.com/bulletin/what-is-regulation/>, Accessed 2026-10-09 — *law review*
 
@@ -1357,7 +1357,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Founding-era meaning: to regulate is to adjust by rule or method, to put in order, or to subject to rules or restrictions (e.g., to regulate trade)**
+**1828 Webster: to regulate is to adjust by rule or method, to put in good order, or to subject to rules or restrictions (e.g., to regulate trade)**
 
 **Webster's Dictionary 1828 (American Dictionary of the English Language)**, Noah Webster, “Regulate - Webster's Dictionary 1828”, 1828, <https://webstersdictionary1828.com/Dictionary/regulate>, Accessed 2026-10-09 — *dictionary*
 
@@ -1367,7 +1367,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Black's (2nd ed.): the power to regulate is the power to prescribe the rules by which something is governed - the conditions on which it is conducted - and includes control of all its instrumentalities**
+**Black's (2nd ed.): the power to regulate is the power to prescribe the rules by which something is governed, and includes control of all its instrumentalities**
 
 **Black's Law Dictionary (2nd ed.) via The Law Dictionary**, “REGULATE”, Black's 2nd ed. (1910), <https://thelawdictionary.org/regulate/>, Accessed 2026-10-09 — *legal dictionary*
 
@@ -1397,7 +1397,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Narrow reading: at the Founding, "to regulate" meant to adjust by rule or method, which presupposes something already existing to adjust; it does not mean to compel or create**
+**Narrow reading: "to regulate" far more commonly meant "to adjust by rule or method," which presupposes something already there to adjust**
 
 **National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012) (Cornell LII)**, Chief Justice John Roberts (n.4), “NATIONAL FEDERATION OF INDEPENDENT BUSINESS v. SEBELIUS”, June 28, 2012, <https://www.law.cornell.edu/supremecourt/text/11-393>, Accessed 2026-10-09 — *court case*
 
@@ -1407,7 +1407,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Broad reading: at the Founding, "to regulate" meant, among other things, "to require action" - regulation includes commands, not only limits on existing activity**
+**Broad reading: at the time of the Constitution, "to regulate" meant, among other things, "to require action" (D.C. Circuit, quoted by Ginsburg)**
 
 **National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012) (Cornell LII)**, Justice Ruth Bader Ginsburg, “NATIONAL FEDERATION OF INDEPENDENT BUSINESS v. SEBELIUS”, June 28, 2012, <https://www.law.cornell.edu/supremecourt/text/11-393>, Accessed 2026-10-09 — *court case*
 
@@ -1417,7 +1417,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “for the regulation of” (2)
 
-**"Regulation of" X means the act of controlling X (a noun phrase with "of" marking the thing controlled)**
+**"Regulation of" something means the act of controlling that thing**
 
 **Cambridge Dictionary**, “REGULATION | English meaning”, undated (accessed 2026-10-09), <https://dictionary.cambridge.org/dictionary/english/regulation>, Accessed 2026-10-09 — *dictionary*
 
@@ -1437,7 +1437,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “regulation of” (4)
 
-**Clean Water Act: "regulation of point sources" means requiring NPDES permits for stationary discharge points; discharge without a permit is illegal**
+**Clean Water Act: requires the regulation of point sources (stationary discharge locations); discharging from a point source without an NPDES permit is illegal**
 
 **Cornell Legal Information Institute, Wex Legal Dictionary**, “Clean Water Act (CWA)”, n.d., <https://www.law.cornell.edu/wex/clean_water_act_(cwa)>, Accessed 2026-10-09 — *legal dictionary*
 
@@ -1457,7 +1457,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Clean Water Act context: "regulation of water pollution" was historically left to the States (common-law nuisance suits, then state regulatory agencies) before federal law**
+**Clean Water Act context: "regulation of water pollution" was left almost entirely to the States for most of U.S. history (common-law nuisance suits, then state regulatory agencies)**
 
 **Sackett v. EPA, 598 U.S. 651 (2023) (Cornell LII)**, Justice Samuel Alito, “SACKETT v. EPA”, May 25, 2023, <https://www.law.cornell.edu/supremecourt/text/21-454>, Accessed 2026-10-09 — *court case*
 
@@ -1591,7 +1591,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**EPA consumer-products rule: 'nonagricultural pesticide' is any FIFRA-defined pesticide (non-agricultural defined by use category)**
+**EPA consumer-products rule: "nonagricultural pesticide" means any substance or mixture that is a pesticide as defined in FIFRA section 2(u)**
 
 **40 CFR 59.202 (via Cornell LII)**, U.S. Environmental Protection Agency, “40 CFR 59.202 - Definitions”, n.d., <https://www.law.cornell.edu/cfr/text/40/59.202>, Accessed 2026-10-09 — *regulation*
 
@@ -1601,11 +1601,11 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Arizona water law: 'industrial use' is a nonagricultural use of water, expressly including animal industry use (livestock), so livestock water can count as non-agricultural**
+**Arizona water law: "industrial use" is a nonagricultural use of water, expressly including animal industry use**
 
 **Arizona Revised Statutes**, Arizona Legislature, “A.R.S. 45-2201 - Definitions”, n.d., <https://www.azleg.gov/ars/45/02201.htm>, Accessed 2026-10-09 — *statute*
 
-<sub>Context: A.R.S. 45-2201(8); 'animal industry use' is defined in A.R.S. 45-402(3) as the production, growing and feeding of livestock, range livestock or poultry</sub>
+<sub>Context: A.R.S. 45-2201(8); 'animal industry use' is defined in A.R.S. 45-402</sub>
 
 > "Industrial use" means a nonagricultural use of water not supplied by a city, town or private water company, including animal industry use and expanded animal industry use as defined in section 45-402.
 
@@ -1621,17 +1621,17 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**'Nonfarm' (the economic-statistics analog of nonagricultural) excludes farm workers, private household employees, military and non-profit employees**
+**Nonfarm payroll employment (a U.S. economic statistic) excludes farm workers, private household employees, military and non-profit employees**
 
 **Wikipedia**, Wikipedia contributors, “Nonfarm payrolls - Wikipedia”, last edited on 5 September 2024, <https://en.wikipedia.org/wiki/Nonfarm_payrolls>, Accessed 2026-10-09 — *encyclopedia*
 
-<sub>Context: Lead; low-authority secondary description of the BLS Current Employment Statistics 'nonfarm' concept (bls.gov blocked automated access)</sub>
+<sub>Context: Lead; low-authority secondary description of 'nonfarm payroll' employment, an analog rather than a definition of 'nonagricultural'</sub>
 
 > Nonfarm payroll employment is a compiled name for goods, construction and manufacturing companies in the US. Approximately 80% of the workforce is accounted for nonfarm payrolls [1] and it excludes farm workers, private household employees, actively serving military or non-profit organization employees.
 
 ### “agricultural” (10)
 
-**Agricultural means of, relating to, used in, or concerned with agriculture (broad ordinary meaning: any connection to agriculture)**
+**"Agricultural" means of, relating to, used in, or concerned with agriculture (broad ordinary meaning)**
 
 **Merriam-Webster Dictionary**, Merriam-Webster, “AGRICULTURAL Definition & Meaning - Merriam-Webster”, Last Updated: 6 Oct 2026, <https://www.merriam-webster.com/dictionary/agricultural>, Accessed 2026-10-09 — *dictionary*
 
@@ -1681,7 +1681,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Federal pesticide-safety rule: an agricultural establishment includes any farm, forest operation, or nursery, so forestry/nursery operations are agricultural**
+**Federal pesticide-safety rule: an agricultural establishment is any farm, forest operation, or nursery engaged in producing agricultural plants**
 
 **40 CFR 170.305 (via Cornell LII)**, U.S. Environmental Protection Agency, “40 CFR 170.305 - Definitions (Worker Protection Standard)”, n.d., <https://www.law.cornell.edu/cfr/text/40/170.305>, Accessed 2026-10-09 — *regulation*
 
@@ -1695,7 +1695,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 **40 CFR 503.11 (via Cornell LII)**, U.S. Environmental Protection Agency, “40 CFR 503.11 - Definitions (Standards for the Use or Disposal of Sewage Sludge)”, n.d., <https://www.law.cornell.edu/cfr/text/40/503.11>, Accessed 2026-10-09 — *regulation*
 
-<sub>Context: 40 CFR 503.11(a), 'Agricultural land' - a water-quality-program definition keyed to crops</sub>
+<sub>Context: 40 CFR 503.11(a), 'Agricultural land' (sewage sludge rule)</sub>
 
 > Agricultural land is land on which a food crop, a feed crop, or a fiber crop is grown. This includes range land and land used as pasture.
 
@@ -1721,7 +1721,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**USDA Census: a farm is any place producing and selling $1,000 or more of agricultural products (a low, broad threshold)**
+**USDA Census: a farm is any place from which $1,000 or more of agricultural products were produced and sold, or normally would have been sold**
 
 **USDA National Agricultural Statistics Service, 2017 Census of Agriculture**, U.S. Department of Agriculture, NASS, “2017 Census of Agriculture, Volume 1, Chapter 2: U.S. State Level Data”, n.d., <https://www.nass.usda.gov/Publications/AgCensus/2017/Full_Report/Volume_1,_Chapter_2_US_State_Level/usv1.txt>, Accessed 2026-10-09 — *government agency*
 
@@ -1731,7 +1731,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “agriculture” (8)
 
-**Agriculture is cultivating soil, producing crops, and raising livestock, and, in varying degrees, preparing and marketing the products (includes some post-harvest processing)**
+**Agriculture is cultivating soil, producing crops, and raising livestock, and in varying degrees preparing and marketing the resulting products**
 
 **Merriam-Webster Dictionary**, Merriam-Webster, “AGRICULTURE Definition & Meaning - Merriam-Webster”, Last Updated: 6 Oct 2026, <https://www.merriam-webster.com/dictionary/agriculture>, Accessed 2026-10-09 — *dictionary*
 
@@ -1741,7 +1741,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Black's (2d ed.): agriculture is cultivating the ground, tillage, planting, raising and harvesting crops, and rearing livestock; a gardener-plus-field test**
+**Black's (2d ed.): agriculture is cultivating the ground, including tillage, planting, raising and harvesting crops, and rearing livestock**
 
 **The Law Dictionary (Black's Law Dictionary, 2nd Ed.)**, Henry Campbell Black, “AGRICULTURE - The Law Dictionary”, n.d., <https://thelawdictionary.org/agriculture/>, Accessed 2026-10-09 — *legal dictionary*
 
@@ -1801,7 +1801,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**NAICS Sector 11 groups agriculture with forestry, fishing, hunting; covers growing crops, raising animals (incl. feedlots and aquaculture) 'from a farm, ranch, or their natural habitats'**
+**NAICS Sector 11 comprises establishments primarily engaged in growing crops, raising animals, harvesting timber, and harvesting fish and other animals from a farm, ranch, or their natural habitats**
 
 **NAICS Association (reproducing the Census Bureau's North American Industry Classification System)**, NAICS Association / U.S. Census Bureau, “NAICS Code Description: 11 - Agriculture, Forestry, Fishing and Hunting”, n.d., <https://www.naics.com/naics-code-description/?code=11>, Accessed 2026-10-09 — *other*
 
@@ -1811,37 +1811,37 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “non-agricultural wastewater” (5)
 
-**Clean Water Act lists 'industrial, municipal, and agricultural waste' as separate pollutant categories, implying non-agricultural waste = industrial/municipal (and other listed) waste**
+**Clean Water Act "pollutant" definition lists "industrial, municipal, and agricultural waste" as separate categories**
 
 **33 U.S.C. 1362(6) (Clean Water Act sec. 502(6))**, U.S. Congress, “33 U.S. Code 1362 - Definitions (via Cornell LII)”, n.d., <https://www.law.cornell.edu/uscode/text/33/1362>, Accessed 2026-10-09 — *statute*
 
-<sub>Context: 33 U.S.C. 1362(6), 'pollutant' - no federal statute defines 'non-agricultural wastewater' by name</sub>
+<sub>Context: 33 U.S.C. 1362(6), 'pollutant'; the quoted text does not use the phrase 'non-agricultural wastewater'</sub>
 
 > (6) The term "pollutant" means dredged spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand, cellar dirt and industrial, municipal, and agricultural waste discharged into water.
 
 ---
 
-**Texas Water Code sorts waste into sewage, industrial, municipal, recreational, agricultural and 'other'; non-agricultural wastewater is everything but agricultural waste**
+**Texas Water Code defines "waste" as sewage, industrial, municipal, recreational, agricultural, or other waste, listing agricultural waste as one category among several**
 
 **Texas Water Code**, Texas Legislature, “Tex. Water Code 26.001 - Definitions”, n.d., <https://texas.public.law/statutes/tex._water_code_section_26.001>, Accessed 2026-10-09 — *statute*
 
-<sub>Context: Tex. Water Code 26.001(6)-(12) (taxonomy of waste types; the Code never uses the phrase 'non-agricultural wastewater')</sub>
+<sub>Context: Tex. Water Code 26.001(6)-(12) (taxonomy of waste types)</sub>
 
 > (6) "Waste" means sewage, industrial waste, municipal waste, recreational waste, agricultural waste, or other waste, as defined in this section. (7) "Sewage" means waterborne human waste and waste from domestic activities, such as washing, bathing, and food preparation. (8) "Municipal waste" means waterborne liquid, gaseous, or solid substances that result from any discharge from a publicly owned sewer system, treatment facility, or disposal system. (9) "Recreational waste" means waterborne liquid, gaseous, or solid substances that emanate from any public or private park, beach, or recreational area. (10) "Agricultural waste" means waterborne liquid, gaseous, or solid substances that arise from the agricultural industry and agricultural activities, including without limitation agricultural animal feeding pens and lots, structures for housing and feeding agricultural animals, and processing facilities for agricultural products. The term: (A) includes: (i) tail water or runoff water from irrigation associated with an animal feeding operation or concentrated animal feeding operation that is located in a major sole source impairment zone, as defined by Section 26.502 (Applicability); or (ii) rainwater runoff from the confinement area of an animal feeding operation or concentrated animal feeding operation that is located in a major sole source impairment zone, as defined by Section 26.502 (Applicability); and (B) does not include tail water or runoff water from irrigation or rainwater runoff from other cultivated or uncultivated range land, pasture land, and farmland or rainwater runoff from an area of land located in a major sole source impairment zone, as defined by Section 26.502 (Applicability), that is not owned or controlled by an operator of an animal feeding operation or concentrated animal feeding operation on which agricultural waste is applied. (11) "Industrial waste" means waterborne liquid, gaseous, or solid substances that result from any process of industry, manufacturing, trade, or business. (12) "Other waste" means garbage, refuse, decayed wood, sawdust, shavings, bark, sand, lime, cinders, ashes, offal, oil, tar, dyestuffs, acids, chemicals, salt water, or any other substance, other than sewage, industrial waste, municipal waste, recreational waste, or agricultural waste.
 
 ---
 
-**Hawaii rule treats agricultural wastewater as a subset of 'non-domestic' wastewater together with commercial and industrial wastewater**
+**Hawaii rule: "non-domestic wastewater" includes wastewater from agricultural, commercial, or industrial activities or operations**
 
 **Hawaii Administrative Rules**, Hawaii Department of Health, “Haw. Code R. 11-62-07.1 - Requirements for non-domestic wastewater”, n.d., <https://www.law.cornell.edu/regulations/hawaii/Haw-Code-R-SS-11-62-07-1>, Accessed 2026-10-09 — *regulation*
 
-<sub>Context: Haw. Code R. 11-62-07.1(b); shows state rules classify wastewater by domestic/non-domestic rather than agricultural/non-agricultural</sub>
+<sub>Context: Haw. Code R. 11-62-07.1(b); classifies wastewater as domestic/non-domestic</sub>
 
 > (b) Non-domestic wastewater includes, but is not limited to: (1) Wastewater from agricultural, commercial, or industrial activities or operations; (2) Solids, semi-solids, or liquids removed from the non-domestic wastewater; (3) Wastewater that contains a mix of both domestic and non-domestic wastewater; or (4) Solids, semi-solids, or liquids removed from wastewater that contains a mix of both domestic and non-domestic wastewater.
 
 ---
 
-**Wikipedia: a common definition of wastewater is used water from domestic, industrial, commercial or agricultural activities, so non-agricultural wastewater is the domestic, industrial and commercial share**
+**Wikipedia: another definition of wastewater is used water from any combination of domestic, industrial, commercial or agricultural activities, surface runoff/storm water, and sewer infiltration or inflow**
 
 **Wikipedia**, Wikipedia contributors, “Wastewater - Wikipedia”, last edited on 25 September 2026, <https://en.wikipedia.org/wiki/Wastewater>, Accessed 2026-10-09 — *encyclopedia*
 
@@ -1851,7 +1851,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**EPA: the NPDES industrial wastewater program covers discharges from industrial and commercial sources, with limits set by type of facility (50+ categories) - the non-farm discharge side of the line**
+**EPA: the NPDES program sets discharge limits for industrial and commercial sources based on facility type; federal guidelines cover more than 50 industrial and commercial categories**
 
 **U.S. EPA, NPDES Industrial Wastewater**, U.S. Environmental Protection Agency, “Industrial Wastewater | US EPA”, Last updated on March 31, 2026, <https://www.epa.gov/npdes/industrial-wastewater>, Accessed 2026-10-09 — *government agency*
 
@@ -1875,7 +1875,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 **40 CFR 122.23 (via Cornell LII)**, U.S. Environmental Protection Agency, “40 CFR 122.23 - Concentrated animal feeding operations (applicable to State NPDES programs, see 123.25)”, n.d., <https://www.law.cornell.edu/cfr/text/40/122.23>, Accessed 2026-10-09 — *regulation*
 
-<sub>Context: 40 CFR 122.23(b)(7), 'Process wastewater' - the federal regulatory counterpart for agricultural (livestock) wastewater</sub>
+<sub>Context: 40 CFR 122.23(b)(7), 'Process wastewater' (animal feeding operations)</sub>
 
 > (7) Process wastewater means water directly or indirectly used in the operation of the AFO for any or all of the following: spillage or overflow from animal or poultry watering systems; washing, cleaning, or flushing pens, barns, manure pits, or other AFO facilities; direct contact swimming, washing, or spray cooling of animals; or dust control. Process wastewater also includes any water which comes into contact with any raw materials, products, or byproducts including manure, litter, feed, milk, eggs or bedding.
 
@@ -1891,7 +1891,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Connecticut DEEP: agricultural wastewater comes from farm activities including animal feeding and processing of agricultural products (egg washing, slaughterhouse wastewater), so processing is agricultural**
+**Connecticut DEEP: agricultural wastewater comes from farm activities including animal feeding and processing of agricultural products (e.g., egg washing, slaughterhouse wastewaters)**
 
 **Connecticut Department of Energy & Environmental Protection**, Connecticut DEEP, “Agricultural Wastewater”, Content Last Updated November 8, 2024, <https://portal.ct.gov/deep/water-regulating-and-discharges/agricultural-wastewater>, Accessed 2026-10-09 — *government agency*
 
@@ -1951,11 +1951,11 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**EPA regulation: NPDES permits are not required for nonpoint-source agricultural and silvicultural runoff, but ARE required for CAFOs, aquatic animal production, aquaculture projects and silvicultural point sources**
+**40 CFR 122.3(e)-(f) covers non point-source agricultural and silvicultural runoff and irrigation return flows, but not discharges from CAFOs, aquatic animal production facilities, aquaculture projects, or silvicultural point sources**
 
 **40 CFR 122.3(e) (via Cornell LII)**, U.S. Environmental Protection Agency, “40 CFR 122.3 - Exclusions”, n.d., <https://www.law.cornell.edu/cfr/text/40/122.3>, Accessed 2026-10-09 — *regulation*
 
-<sub>Context: 40 CFR 122.3(e)-(f); key text for whether CAFO, aquaculture, and forestry discharges are 'agricultural' exclusions or regulated point sources</sub>
+<sub>Context: 40 CFR 122.3(e)-(f); the quoted text distinguishes agricultural runoff from CAFO, aquaculture, and silvicultural point-source discharges</sub>
 
 > (e) Any introduction of pollutants from non point-source agricultural and silvicultural activities, including storm water runoff from orchards, cultivated crops, pastures, range lands, and forest lands, but not discharges from concentrated animal feeding operations as defined in § 122.23, discharges from concentrated aquatic animal production facilities as defined in § 122.24, discharges to aquaculture projects as defined in § 122.25, and discharges from silvicultural point sources as defined in § 122.27. (f) Return flows from irrigated agriculture.
 
@@ -1971,11 +1971,11 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Ninth Circuit: the exemption covers only flows from crop-production activities; discharges with additional point-source pollutants from activities unrelated to crop production lose it (exemption narrowly construed)**
+**Ninth Circuit: Congress sought to limit the return-flow exception to flows that do not contain additional discharges from activities unrelated to crop production**
 
 **Pacific Coast Federation of Fishermen's Associations v. Glaser (9th Cir. 2019)**, U.S. Court of Appeals for the Ninth Circuit, “P.C.F.F.A. v. Glaser, No. 17-17130 (9th Cir. Sept. 6, 2019)”, September 6, 2019, <https://cases.justia.com/federal/appellate-courts/ca9/17-17130/17-17130-2019-09-06.pdf>, Accessed 2026-10-09 — *court case*
 
-<sub>Context: Part B, 'Interpretation of Irrigated Agriculture' (later narrowed in the 2025 Nickels decision)</sub>
+<sub>Context: Part B, 'Interpretation of Irrigated Agriculture'</sub>
 
 > Five years after its enactment, however, Congress amended the CWA to include an exception for discharges composed entirely of return flows from irrigated agriculture. Id. at 1073. "Congress did so to alleviate EPA's burden in having to issue permits for every agricultural point source." Id. By passing § 1342(l)(1), Congress sought "to limit the exception to only those flows which do not contain additional discharges from activities unrelated to crop production." S. Rep. No. 95-370, 35 (1977), as reprinted in 1977 U.S.C.C.A.N. 4326, 4360.
 
@@ -1991,7 +1991,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**EPA itself calls AFOs 'agricultural operations' while treating CAFOs as regulated point sources under CWA 502(14) - CAFO discharges are agricultural yet regulated**
+**EPA calls AFOs "agricultural operations" and says AFOs meeting the CAFO definition are regulated under the NPDES permitting program**
 
 **U.S. EPA, Animal Feeding Operations (AFOs)**, U.S. Environmental Protection Agency, “Animal Feeding Operations (AFOs) | US EPA”, Last updated on October 9, 2026, <https://www.epa.gov/npdes/animal-feeding-operations-afos>, Accessed 2026-10-09 — *government agency*
 
@@ -2001,7 +2001,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**CRS: CAFOs are expressly point sources while 'agricultural stormwater' is expressly excluded in the same section; the court called this 'self-evidently ambiguous' and CAFO land-application runoff can be exempt agricultural stormwater**
+**CRS: the CWA expressly includes CAFOs in "point source" and, in the same provision, expressly excludes "agricultural stormwater"; the court called this "self-evidently ambiguous"**
 
 **Congressional Research Service, Report RL33656 (via EveryCRSReport.com)**, Claudia Copeland, Congressional Research Service, “Animal Waste and Water Quality: EPA's Response to the Waterkeeper Alliance Court Decision on Regulation of CAFOs”, Updated November 20, 2008, <https://www.everycrsreport.com/files/20081120_RL33656_ed8badb689bfd7736a74252707efa3026c00f82d.html>, Accessed 2026-10-09 — *congressional research*
 
@@ -2011,7 +2011,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “nonpoint source” (3)
 
-**EPA: a nonpoint source is any source of water pollution that is not a legal 'point source' under CWA 502(14) - and the point-source definition itself excludes agricultural stormwater and irrigation return flows**
+**EPA: a nonpoint source is any source of water pollution that is not a legal "point source" under CWA 502(14), which excludes agricultural stormwater and irrigation return flows**
 
 **U.S. EPA, Nonpoint Source Pollution**, U.S. Environmental Protection Agency, “Basic Information about Nonpoint Source (NPS) Pollution | US EPA”, Last updated on November 5, 2025, <https://www.epa.gov/nps/basic-information-about-nonpoint-source-nps-pollution>, Accessed 2026-10-09 — *government agency*
 
@@ -2031,7 +2031,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**CWA 208: state/areawide plans must identify 'agriculturally and silviculturally related nonpoint sources', including irrigation return flows, manure disposal runoff, and livestock and crop land runoff**
+**CWA 208(b)(2)(F): calls for a process to identify agriculturally and silviculturally related nonpoint sources, including irrigation return flows, manure disposal runoff, and livestock and crop land runoff**
 
 **33 U.S.C. 1288(b)(2)(F) (Clean Water Act sec. 208)**, U.S. Congress, “33 U.S. Code 1288 - Areawide waste treatment management (via Cornell LII)”, n.d., <https://www.law.cornell.edu/uscode/text/33/1288>, Accessed 2026-10-09 — *statute*
 
@@ -2043,7 +2043,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “wastewater” (14)
 
-**Wastewater is used water, expressly including water from industrial processes; no mention of agriculture or stormwater**
+**Wastewater is water that has been used (as in a manufacturing process); sewage**
 
 **Merriam-Webster Dictionary**, “Wastewater Definition & Meaning - Merriam-Webster”, n.d., <https://www.merriam-webster.com/dictionary/wastewater>, Accessed 2026-10-09 — *dictionary*
 
@@ -2083,7 +2083,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Wastewater is used water from homes and businesses, and also includes storm runoff (USGS)**
+**USGS: wastewater is used water, including human waste, food scraps, oils, soaps and chemicals, from homes, businesses and industries**
 
 **USGS Water Science School**, U.S. Geological Survey, “Wastewater Treatment Water Use”, September 2, 2026, <https://www.usgs.gov/water-science-school/science/wastewater-treatment-water-use>, Accessed 2026-10-09 — *government agency*
 
@@ -2103,7 +2103,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Process wastewater (40 CFR 122.2) is only water that touches or results from raw materials, products, or wastes in manufacturing or processing**
+**Process wastewater (40 CFR 122.2) is water that, during manufacturing or processing, comes into direct contact with or results from the production or use of raw materials, products, byproducts or wastes**
 
 **40 CFR 122.2 (eCFR via Cornell LII)**, U.S. Environmental Protection Agency, “40 CFR 122.2 - Definitions”, n.d., <https://www.law.cornell.edu/cfr/text/40/122.2>, Accessed 2026-10-09 — *regulation*
 
@@ -2133,7 +2133,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Common definition: wastewater is liquid waste from domestic, commercial, industrial, AND agricultural sources**
+**Coastal Wiki: wastewater is any water adversely affected in quality by human influence, including liquid waste from domestic, commercial, industrial, and/or agricultural sources**
 
 **Coastal Wiki**, Coastal Wiki (VLIZ), “Wastewater”, n.d., <https://coastalwiki.org/wiki/Wastewater>, Accessed 2026-10-09 — *encyclopedia*
 
@@ -2183,7 +2183,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “sewage” (4)
 
-**Sewage is waste matter carried by sewers; domestic sewage includes waste and wastewater from humans or household operations that enter a treatment works (40 CFR 122.2)**
+**40 CFR 122.2: "domestic sewage" includes waste and wastewater from humans or household operations that are discharged to or enter a treatment works**
 
 **40 CFR 122.2 (eCFR via Cornell LII)**, U.S. Environmental Protection Agency, “40 CFR 122.2 - Definitions”, n.d., <https://www.law.cornell.edu/cfr/text/40/122.2>, Accessed 2026-10-09 — *regulation*
 
@@ -2275,7 +2275,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “discharge” (14)
 
-**Verb: to discharge is to give outlet to or emit (ordinary 'send forth' sense)**
+**Verb: to discharge is to give outlet or vent to; emit**
 
 **Merriam-Webster Dictionary**, “DISCHARGE Definition & Meaning - Merriam-Webster”, n.d., <https://www.merriam-webster.com/dictionary/discharge>, Accessed 2026-10-09 — *dictionary*
 
@@ -2305,7 +2305,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Verb: to discharge means to pour forth or emit (e.g., oil)**
+**Verb: to discharge means to pour forth; emit**
 
 **Dictionary.com**, “DISCHARGE Definition & Meaning | Dictionary.com”, n.d., <https://www.dictionary.com/browse/discharge>, Accessed 2026-10-09 — *dictionary*
 
@@ -2345,7 +2345,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Legal dictionary sense: discharge ordinarily means release from a legal obligation (the non-water meaning)**
+**Legal dictionary sense: a discharge is the extinguishment or release of a legal obligation or duty (a non-water sense)**
 
 **Wex Legal Dictionary (Cornell LII)**, Legal Information Institute, Cornell Law School, “discharge | Wex | US Law | LII / Legal Information Institute”, Last reviewed October 2022, <https://www.law.cornell.edu/wex/discharge>, Accessed 2026-10-09 — *legal dictionary*
 
@@ -2355,7 +2355,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**CWA: 'discharge' without qualification means discharge of a pollutant(s), so it is a term of art tied to pollutants from point sources**
+**CWA: "discharge" when used without qualification includes a discharge of a pollutant and a discharge of pollutants**
 
 **33 U.S.C. 1362(16) (Cornell LII)**, U.S. Congress, “33 U.S. Code § 1362 - Definitions”, n.d., <https://www.law.cornell.edu/uscode/text/33/1362>, Accessed 2026-10-09 — *statute*
 
@@ -2375,7 +2375,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**CWA oil/hazardous substances discharge is broader: any spilling, leaking, pumping, pouring, emitting, emptying or dumping**
+**40 CFR 116.3 (hazardous substances): "discharge" includes, but is not limited to, any spilling, leaking, pumping, pouring, emitting, emptying or dumping, excluding permitted discharges**
 
 **40 CFR 116.3 (eCFR via Cornell LII)**, U.S. Environmental Protection Agency, “40 CFR 116.3 - Definitions”, n.d., <https://www.law.cornell.edu/cfr/text/40/116.3>, Accessed 2026-10-09 — *regulation*
 
@@ -2385,7 +2385,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Pretreatment rules: an 'indirect discharge' is introduction of pollutants into a sewage treatment plant (POTW) from a non-domestic source**
+**Pretreatment rules: an "indirect discharge" is the introduction of pollutants into a sewage treatment plant (POTW) from a non-domestic source regulated under section 307**
 
 **40 CFR 403.3 (eCFR via Cornell LII)**, U.S. Environmental Protection Agency, “40 CFR 403.3 - Definitions”, n.d., <https://www.law.cornell.edu/cfr/text/40/403.3>, Accessed 2026-10-09 — *regulation*
 
@@ -2395,7 +2395,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Hydrology reading: discharge is the volume of water passing a given location in a given time (a flow rate, not a release of waste)**
+**Hydrology reading: discharge is the volume of water that passes a given location within a given period of time**
 
 **USGS Water Science School Glossary**, U.S. Geological Survey, “Water Science Glossary of Terms”, n.d., <https://water.usgs.gov/edu/dictionary.html>, Accessed 2026-10-09 — *government agency*
 
@@ -2415,7 +2415,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “wastewater discharge” (8)
 
-**EPA: effluent guidelines are national wastewater discharge standards set industry-by-industry (technology-based)**
+**EPA: effluent guidelines are national wastewater discharge standards developed industry-by-industry**
 
 **U.S. Environmental Protection Agency**, U.S. EPA, “Learn about Effluent Guidelines”, July 8, 2026, <https://www.epa.gov/eg/learn-about-effluent-guidelines>, Accessed 2026-10-09 — *government agency*
 
@@ -2425,7 +2425,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**EPA: 'wastewater discharged' covers discharges to surface waters AND to municipal sewage treatment plants (broader than 'navigable waters')**
+**EPA: Effluent Guidelines are national standards for wastewater discharged to surface waters AND municipal sewage treatment plants**
 
 **U.S. Environmental Protection Agency**, U.S. EPA, “Effluent Guidelines”, October 6, 2026, <https://www.epa.gov/eg>, Accessed 2026-10-09 — *government agency*
 
@@ -2455,7 +2455,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Michigan: a 'direct discharge' of wastewater goes into state waters (including groundwater) without POTW treatment, even via storm sewers or ditches**
+**Michigan: a "direct discharge" of wastewater goes into waters of the state (groundwater, streams, lakes, rivers) without POTW treatment**
 
 **Michigan EGLE, Wastewater Discharge FAQ**, Michigan Department of Environment, Great Lakes, and Energy, “Wastewater Discharge FAQ (NPDES permit type)”, n.d., <https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/WRD/NPDES/faq-permit-type.pdf?rev=f43e26742419468dabd0e8d7f3004bab>, Accessed 2026-10-09 — *government agency*
 
@@ -2485,7 +2485,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**University compliance usage: 'wastewater discharge' includes sanitary wastewater sent to the sewer under local and state rules**
+**University of Maryland fact sheet: sanitary wastewater discharges are regulated by WSSC and MDE, which set conditions under which wastewater can be discharged**
 
 **University of Maryland Environmental Safety, Sustainability and Risk**, University of Maryland, Environmental Safety, Sustainability and Risk, “Wastewater Practices: General Requirements”, n.d., <https://essr.umd.edu/who-we-are/environmental-affairs/wastewater-practices-general-requirements>, Accessed 2026-10-09 — *academic*
 
@@ -2495,17 +2495,17 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “non-agricultural wastewater discharge” (3)
 
-**No source defines the exact phrase; Iowa State uses 'non-agricultural sources of stormwater discharges' to describe what the NPDES storm water program covers**
+**Iowa State describes the NPDES Storm Water Program as addressing "the non-agricultural sources of stormwater discharges"**
 
 **Iowa State University Environmental Health and Safety**, Iowa State University, Environmental Health and Safety, “Stormwater Program”, n.d., <https://www.ehs.iastate.edu/stormwater-program>, Accessed 2026-10-09 — *academic*
 
-<sub>Context: University description of the federal NPDES storm water program (nearest usage of 'non-agricultural' + 'discharges')</sub>
+<sub>Context: University description of the federal NPDES storm water program (usage of 'non-agricultural' with 'stormwater discharges')</sub>
 
 > Mandated by Congress under the Clean Water Act, the National Pollutant Discharge Elimination System (NPDES) Storm Water Program is a comprehensive, two-phased national program for addressing the non-agricultural sources of stormwater discharges that adversely affect the quality of our nation's waters.
 
 ---
 
-**1987 amendments created a program for 'nonagricultural stormwater discharges' (agricultural stormwater was exempted from 'point source')**
+**NACUBO: Congress amended the Clean Water Act in 1987, requiring a program to control "nonagricultural stormwater discharges"**
 
 **NACUBO Campus Environmental Resource Center**, National Association of College and University Business Officers (NACUBO), “EPA - Clean Water Act (CWA)”, n.d., <https://www.nacubo.org/Topics/Facilities-and-Environmental-Compliance/Campus-Environmental-Resources-Center/Campus-ERC-Compliance-Guides/EPA---Environmental-Protection-Agency/CWA>, Accessed 2026-10-09 — *industry*
 
@@ -2515,7 +2515,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Contrast: Connecticut defines agricultural wastewater by example (manure, milking-center wash water, feedlot runoff, slaughterhouse wastewater), showing what 'non-agricultural' would exclude**
+**Contrast: Connecticut defines agricultural wastewater by example (manure, milking-center wash water, feedlot runoff, slaughterhouse wastewater)**
 
 **Connecticut Department of Energy & Environmental Protection**, Connecticut DEEP, “Agricultural Wastewater”, November 8, 2024, <https://portal.ct.gov/DEEP/Water-Regulating-and-Discharges/Agricultural-Wastewater>, Accessed 2026-10-09 — *government agency*
 
@@ -2535,7 +2535,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**EPA's NPDES definition expands the statute: includes collected surface runoff, sewers not leading to treatment works, and excludes indirect dischargers**
+**EPA NPDES definition adds that discharge includes pollutant additions from collected surface runoff and from sewers or conveyances not leading to treatment works, and excludes indirect dischargers**
 
 **40 CFR 122.2 (eCFR via Cornell LII)**, U.S. Environmental Protection Agency, “40 CFR 122.2 - Definitions”, n.d., <https://www.law.cornell.edu/cfr/text/40/122.2>, Accessed 2026-10-09 — *regulation*
 
@@ -2757,7 +2757,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ### “into” (5)
 
-**Ordinary meaning: 'into' indicates entry or introduction, e.g., entering the interior of something**
+**"Into" indicates entry, introduction, insertion, superposition, or inclusion**
 
 **Merriam-Webster Dictionary**, “INTO Definition & Meaning - Merriam-Webster”, n.d., <https://www.merriam-webster.com/dictionary/into>, Accessed 2026-10-09 — *dictionary*
 
@@ -2797,7 +2797,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Court reading (Miccosukee): pumping water from one part of a water body 'into' another part of the same water body is not an 'addition' of a pollutant; 'into' must reach a distinct water**
+**Miccosukee: the Tribe does not dispute that pumping water from one part of a water body into another part of the same body cannot be an "addition" of pollutants**
 
 **South Florida Water Management District v. Miccosukee Tribe, 541 U.S. 95 (2004) (Cornell LII)**, Justice Stevens, for the Court, “South Florida Water Management Dist. v. Miccosukee Tribe of Indians, No. 02-626”, n.d., <https://www.law.cornell.edu/supremecourt/text/541/95>, Accessed 2026-10-09 — *court case*
 
@@ -2833,7 +2833,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 **The Daniel Ball, 77 U.S. (10 Wall.) 557**, U.S. Supreme Court (Field, J.), “The Daniel Ball, 77 U.S. 557”, 1871 (Dec. Term 1870), <https://www.law.cornell.edu/supremecourt/text/77/557>, Accessed 2026-10-09 — *court case*
 
-<sub>Context: The classic 'navigable-in-fact' test, still the baseline for 'traditional navigable waters.' Narrow/commerce-based.</sub>
+<sub>Context: The classic "navigable-in-fact" test. Narrow/commerce-based.</sub>
 
 > Those rivers must be regarded as public navigable rivers in law which are navigable in fact. And they are navigable in fact when they are used, or are susceptible of being used, in their ordinary condition, as highways for commerce, over which trade and travel are or may be conducted in the customary modes of trade and travel on water. And they constitute navigable waters of the United States within the meaning of the acts of Congress, in contradistinction from the navigable waters of the States, when they form in their ordinary condition by themselves, or by uniting with other waters, a continued highway over which commerce is or may be carried on with other States or foreign countries in the customary modes in which such commerce is conducted by water.
 
@@ -2929,7 +2929,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Earthjustice (broad view): 'navigable waters' means WOTUS, which Congress itself says includes adjacent wetlands; Sackett's narrowing is criticized**
+**Earthjustice (broad view): "navigable waters" means WOTUS; everyone agrees it covers some wetlands, because the CWA elsewhere refers to "navigable waters... including wetlands adjacent thereto"**
 
 **Earthjustice**, Kirti Datla, “What Does Sackett v. EPA Mean for Clean Water?”, May 26, 2023, <https://earthjustice.org/article/what-does-sackett-v-epa-mean-for-clean-water>, Accessed 2026-10-09 — *advocacy*
 
@@ -2943,13 +2943,13 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 **University of Chicago Law Review Online**, Richard J. Lazarus (Harvard Law School), “Judicial Destruction of the Clean Water Act: Sackett v. EPA”, August 11, 2023, <https://lawreview.uchicago.edu/judicial-destruction-clean-water-act-sackett-v-epa>, Accessed 2026-10-09 — *law review*
 
-<sub>Context: Part I (description of pre-Sackett agency practice). Author criticizes Sackett's narrowing.</sub>
+<sub>Context: Part I (description of pre-Sackett agency practice).</sub>
 
 > Reading those cases together, the agencies had defined the jurisdictional reach of the Clean Water Act as extending beyond the scope of traditional navigable waters to include any waters with a "significant nexus" to those traditional navigable waters. According to the agencies, those waters may include, inter alia, tributaries (perennial, ephemeral, or intermittent streams, for example), lakes, and wetlands that possess that necessary hydrologic nexus.
 
 ---
 
-**RFF (neutral think tank): Scalia's plurality required adjacency to navigable waters, Kennedy required a 'significant nexus' between a navigable water and another waterway**
+**RFF: in Rapanos, Scalia argued for the adjacency criterion, while Kennedy argued a "significant nexus" between a navigable water and another waterway must exist**
 
 **Resources for the Future (Common Resources)**, Sheila M. Olmstead (RFF University Fellow), “The Future of the Waters of the United States after Sackett v. US Environmental Protection Agency”, n.d., <https://www.resources.org/common-resources/the-future-of-the-waters-of-the-united-states-after-sackett-v-us-environmental-protection-agency/>, Accessed 2026-10-09 — *think tank*
 
@@ -2959,21 +2959,21 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**AEI (market-oriented view): the CWA protects 'navigable waters' by reaching linked waters, but because nearly all waters connect, the 2015 rule left coverage to case-by-case review**
+**AEI: CWA jurisdiction extends to waters linked to navigable ones; because essentially all waters are connected, the 2015 WOTUS rule has agencies assess connectivity case by case**
 
 **American Enterprise Institute**, Nathan P. Hendricks, “Waters of the US Rule and Clean Water Act Fail to Provide Cost-effective Improvements in Water Quality”, November 30, 2017, <https://www.aei.org/research-products/report/waters-of-the-us-rule-and-clean-water-act-fail-to-provide-cost-effective-improvements-in-water-quality/>, Accessed 2026-10-09 — *think tank*
 
-<sub>Context: Executive Summary. Critique of the broad 2015 'significant nexus' reading (supports narrower federal reach).</sub>
+<sub>Context: Executive Summary. Think-tank discussion of the 2015 WOTUS rule.</sub>
 
 > To protect navigable waters, the Clean Water Act's jurisdiction extends to waters linked to navigable ones. But because essentially all waters are connected, under the 2015 Waters of the United States (WOTUS) rule, agencies will assess the degree of connectivity on a case-by-case basis.
 
 ---
 
-**Hoover (Epstein): early regulations limited 'navigable waters' to navigable bodies, but Callaway (1975) turned the term into the full reach of the Commerce Clause**
+**Hoover (Epstein): initial 404 regulations covered only navigable bodies; Callaway (1975) declared the term reaches to the maximum extent permissible under the Commerce Clause**
 
 **Hoover Institution**, Richard A. Epstein, “In Sackett Case, a Shallow Dive into "Wetlands"”, October 11, 2022, <https://www.hoover.org/research/sackett-case-shallow-dive-wetlands>, Accessed 2026-10-09 — *think tank*
 
-<sub>Context: Libertarian/limited-government critique of the broad reading; historical account of how 'navigable waters' expanded.</sub>
+<sub>Context: Critical historical account of how 'navigable waters' expanded.</sub>
 
 > The initial set of regulations under Section 404(a) closely tracked the statutory definition so that the navigable waters of the United States included just those bodies, and not the lands or wetlands adjacent to them, which were not susceptible to navigation. But the 1975 case of Natural Resources Defense Council v. Callaway turned that definition upside down in a one-page opinion that declared that Congress, by using the phrase " 'the waters of the United States, including the territorial seas,' asserted federal jurisdiction over the nation's waters to the maximum extent permissible under the Commerce Clause of the Constitution. Accordingly, as used in the Water Act, the term is not limited to the traditional tests of navigability," without saying exactly how far it did extend.
 
@@ -2989,11 +2989,11 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Wisconsin: streams navigable in fact for any purpose whatsoever are declared navigable - a state test much broader than the commerce-based federal test**
+**Wisconsin: streams, sloughs, bayous and marsh outlets navigable in fact for any purpose whatsoever are declared navigable (no dam, bridge or obstruction without state permission)**
 
 **Wisconsin Statutes, sec. 30.10(2)(a)**, Wisconsin Legislature, “30.10 Declarations of navigability”, n.d., <https://docs.legis.wisconsin.gov/statutes/statutes/30/i/10>, Accessed 2026-10-09 — *statute*
 
-<sub>Context: State definition of navigability for streams. Broad (recreational/any-purpose) state-law reading.</sub>
+<sub>Context: State definition of navigability for streams; 'any purpose whatsoever' standard.</sub>
 
 > Subject to par. (b) and except as provided under sub. (4) (c) and (d), all streams, sloughs, bayous, and marsh outlets, which are navigable in fact for any purpose whatsoever, are declared navigable to the extent that no dam, bridge, or other obstruction shall be made in or over the same without the permission of the state.
 
@@ -3003,13 +3003,13 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 **Wisconsin Statutes, sec. 30.01(4m)**, Wisconsin Legislature, “30.01 Definitions”, n.d., <https://docs.legis.wisconsin.gov/statutes/statutes/30/i/01>, Accessed 2026-10-09 — *statute*
 
-<sub>Context: State statutory definition (chapter 'Navigable waters, harbors and navigation'). Illustrates state definitions differ from the federal CWA term.</sub>
+<sub>Context: State statutory definition (chapter 'Navigable waters, harbors and navigation').</sub>
 
 > "Navigable waters" or "navigable waterway" means any body of water which is navigable under the laws of this state.
 
 ### “navigable” (12)
 
-**Ordinary meaning: navigable means deep and wide enough to afford passage to ships, or capable of being steered - a physical-capacity test, not a regulatory-reach test**
+**Ordinary meaning: navigable means deep and wide enough to afford passage to ships, or capable of being navigated or steered**
 
 **Merriam-Webster Dictionary**, Merriam-Webster, “navigable”, Last Updated 10 Sep 2026, <https://www.merriam-webster.com/dictionary/navigable>, Accessed 2026-10-09 — *dictionary*
 
@@ -3039,7 +3039,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Navigable water is water deep, wide, or safe enough for a boat to go through - 'safe' enough broadens the physical test**
+**Navigable water is water deep, wide, or safe enough for a boat to go through**
 
 **Cambridge Dictionary**, Cambridge University Press, “navigable”, n.d., <https://dictionary.cambridge.org/dictionary/english/navigable>, Accessed 2026-10-09 — *dictionary*
 
@@ -3089,17 +3089,17 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**SWANCC: 'navigable' still limits the CWA - it shows Congress relied on its traditional jurisdiction over waters navigable in fact or reasonably made so**
+**SWANCC: "navigable" has at least the import of showing Congress's authority for the CWA: its traditional jurisdiction over waters navigable in fact or reasonably made so**
 
 **Solid Waste Agency of Northern Cook County v. U.S. Army Corps of Engineers, 531 U.S. 159**, U.S. Supreme Court (Rehnquist, C.J.), “Solid Waste Agency of Northern Cook Cty. v. Army Corps of Engineers (99-1178)”, January 9, 2001, <https://www.law.cornell.edu/supct/html/99-1178.ZO.html>, Accessed 2026-10-09 — *court case*
 
-<sub>Context: Opinion of the Court. Narrow reading: 'navigable' cannot be read out of the statute; isolated intrastate waters not covered on migratory-bird theory alone.</sub>
+<sub>Context: Opinion of the Court. Narrow reading of "navigable"; held isolated intrastate waters not covered on the migratory-bird theory alone.</sub>
 
 > The term "navigable" has at least the import of showing us what Congress had in mind as its authority for enacting the CWA: its traditional jurisdiction over waters that were or had been navigable in fact or which could reasonably be so made.
 
 ---
 
-**PPL Montana: the Daniel Ball 'navigable in fact' test has been used for Clean Water Act coverage and title alike, though applied differently in each context**
+**PPL Montana: the Daniel Ball "navigable in fact" formulation has been invoked for federal regulatory authority and specific federal statutes, including the Clean Water Act, as to waters and their beds**
 
 **PPL Montana, LLC v. Montana, 565 U.S. 576**, U.S. Supreme Court (Kennedy, J.), “PPL Montana, LLC v. Montana (10-218)”, February 22, 2012, <https://www.law.cornell.edu/supremecourt/text/10-218>, Accessed 2026-10-09 — *court case*
 
@@ -3119,11 +3119,11 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Encyclopedic: a body of water is navigable if it is calm, deep, and wide enough for a watercraft to pass safely - and navigability depends on the size of the craft**
+**Encyclopedic: a body of water is navigable if it is calm, deep, and wide enough for a watercraft to pass safely**
 
 **Wikipedia**, Wikipedia contributors, “Navigability”, Last edited 22 April 2026, <https://en.wikipedia.org/wiki/Navigability>, Accessed 2026-10-09 — *encyclopedia*
 
-<sub>Context: Lead paragraph. Ordinary/technical meaning; context-dependent.</sub>
+<sub>Context: Lead paragraph. Ordinary/technical meaning.</sub>
 
 > A body of water, such as a canal, lake, reservoirs, or river, is navigable if it is calm, deep, and wide enough for a watercraft (e.g. boats) to pass safely.
 
@@ -3143,7 +3143,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 **American Heritage Dictionary of the English Language, 5th ed.**, HarperCollins / Houghton Mifflin Harcourt, “water (noun, senses 3a-3b)”, n.d., <https://www.ahdictionary.com/word/search.html?q=water>, Accessed 2026-10-09 — *dictionary*
 
-<sub>Context: noun 'water', senses 3a and 3b. Geographic-feature sense; the one relied on by the Rapanos plurality/Sackett.</sub>
+<sub>Context: noun "water", senses 3a and 3b. Geographic-feature sense.</sub>
 
 > 3. a. A body of water such as a sea, lake, river, or stream. b. waters A particular stretch of sea or ocean, especially that of a state or country: escorted out of British waters.
 
@@ -3189,21 +3189,21 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Sackett (majority): the CWA's plural 'waters' typically refers to bodies of water, per Black's 5th and Random House definitions**
+**Sackett (majority): the CWA's plural "waters" typically refers to bodies of water, citing Webster's Second, Black's (5th ed.) and Random House**
 
 **Sackett v. EPA, 598 U.S. 651**, U.S. Supreme Court (Alito, J.), “Sackett v. Environmental Protection Agency (21-454)”, May 25, 2023, <https://www.law.cornell.edu/supremecourt/text/21-454>, Accessed 2026-10-09 — *court case*
 
-<sub>Context: Opinion of the Court, Part III-A; collects Black's (5th ed. 1979) and Random House dictionary definitions of 'waters'. Narrow reading.</sub>
+<sub>Context: Opinion of the Court, Part III-A; collects Webster's Second, Black's (5th ed. 1979) and Random House dictionary definitions of "waters". Narrow reading.</sub>
 
 > This reading follows from the CWA's deliberate use of the plural term "waters." See 547 U. S., at 732-733. That term typically refers to bodies of water like those listed above. See, e.g., Webster's Second 2882; Black's Law Dictionary 1426 (5th ed. 1979) ("especially in the plural, [water] may designate a body of water, such as a river, a lake, or an ocean, or an aggregate of such bodies of water, as in the phrases 'foreign waters,' ' waters of the United States,' and the like" (emphasis added)); Random House Dictionary of the English Language 2146 (2d ed. 1987) (Random House Dictionary) (defining "waters" as "a. flowing water, or water moving in waves: The river's mighty waters. b. the sea or seas bordering a particular country or continent or located in a particular part of the world" (emphasis deleted)).
 
 ### “waters of the united states” (9)
 
-**Current regulation: WOTUS = traditional navigable/interstate waters and territorial seas, impoundments, relatively permanent tributaries, adjacent wetlands with a continuous surface connection, and relatively permanent lakes/ponds**
+**40 CFR 120.2(a): WOTUS covers waters used in interstate or foreign commerce (including tidal), territorial seas, interstate waters, impoundments, relatively permanent tributaries, adjacent wetlands, and certain relatively permanent intrastate lakes and ponds**
 
 **40 CFR 120.2(a) (EPA)**, U.S. EPA, “40 CFR 120.2 - Definitions”, As amended 88 FR 61969, Sept. 8, 2023, <https://www.law.cornell.edu/cfr/text/40/120.2>, Accessed 2026-10-09 — *regulation*
 
-<sub>Context: Current (post-Sackett conforming rule) regulatory definition. Narrower than pre-2015/2015/2023-original rules; still includes interstate waters.</sub>
+<sub>Context: 40 CFR 120.2(a); regulatory definition (conforming rule following Sackett); includes interstate waters.</sub>
 
 > (a) Waters of the United States means: (1) Waters which are: (i) Currently used, or were used in the past, or may be susceptible to use in interstate or foreign commerce, including all waters which are subject to the ebb and flow of the tide; (ii) The territorial seas; or (iii) Interstate waters; (2) Impoundments of waters otherwise defined as waters of the United States under this definition, other than impoundments of waters identified under paragraph (a)(5) of this section; (3) Tributaries of waters identified in paragraph (a)(1) or (2) of this section that are relatively permanent, standing or continuously flowing bodies of water; (4) Wetlands adjacent to the following waters: (i) Waters identified in paragraph (a)(1) of this section; or (ii) Relatively permanent, standing or continuously flowing bodies of water identified in paragraph (a)(2) or (a)(3) of this section and with a continuous surface connection to those waters; (5) Intrastate lakes and ponds not identified in paragraphs (a)(1) through (4) of this section that are relatively permanent, standing or continuously flowing bodies of water with a continuous surface connection to the waters identified in paragraph (a)(1) or (a)(3) of this section.
 
@@ -3239,27 +3239,27 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**2025 EPA/Army proposal (narrower): WOTUS limited to relatively permanent, standing or continuously flowing waters like streams, oceans, rivers, and lakes, and wetlands indistinguishable from them**
+**2025 EPA/Army proposal: federal jurisdiction focused on relatively permanent, standing or continuously flowing waters like streams, oceans, rivers, and lakes, and wetlands connected and indistinguishable from them**
 
 **U.S. Environmental Protection Agency (Fact Sheet)**, U.S. EPA and Department of the Army, “2025 Proposed "Waters of the United States" (WOTUS) Rule - Fact Sheet”, November 17, 2025, <https://www.epa.gov/system/files/documents/2025-11/public_factsheet_wotus_nprm.pdf>, Accessed 2026-10-09 — *government agency*
 
-<sub>Context: Fact sheet on the November 2025 proposed rule (90 FR 52498); proposed, not final. Narrow reading; would remove interstate waters as a category.</sub>
+<sub>Context: Fact sheet on the November 2025 proposed rule; proposed, not final. Narrow reading.</sub>
 
 > The agencies' proposed definition of WOTUS would fully implement the Court's direction by ensuring federal jurisdiction is focused on relatively permanent, standing or continuously flowing bodies of water-such as streams, oceans, rivers, and lakes-and wetlands that are connected and indistinguishable from such waterbodies.
 
 ---
 
-**2026 supplemental proposal (narrowest option): 'continuous surface connection' = perennial surface water in a wetland continuously connected with the jurisdictional water, with limited exceptions**
+**2026 EPA/Army supplemental proposal: "continuous surface connection" means perennial surface water in a wetland continuously connected with the jurisdictional water, with exceptions for temporary interruptions**
 
 **U.S. Environmental Protection Agency (Fact Sheet)**, U.S. EPA and Department of the Army, “2026 Supplemental Proposed "Waters of the United States" Rule - Fact Sheet”, September 4, 2026, <https://www.epa.gov/system/files/documents/2026-09/wotus_snprm_factsheet_508c.pdf>, Accessed 2026-10-09 — *government agency*
 
-<sub>Context: Fact sheet on the September 2026 supplemental NPRM (comments due Oct. 9, 2026); proposed, not final. One option would track the 2020 Navigable Waters Protection Rule.</sub>
+<sub>Context: Fact sheet on the September 2026 supplemental proposed rule; proposed, not final.</sub>
 
 > Defining "continuous surface connection" to mean perennial surface water in a wetland that is continuously connected with the surface water in the jurisdictional water such that it is difficult to determine where the jurisdictional water ends and the wetland begins, with an exception for temporary interruptions in the surface water connection as the result of anomalous events such as drought or dry spell or a temporary interruption in the surface water connection lasting no more than 30 consecutive days in any given year as a result of non-anomalous events such as low tide or a regularly occurring dry spell.
 
 ---
 
-**Sackett: WOTUS covers only wetlands indistinguishable from relatively permanent waters connected to traditional interstate navigable waters, via a continuous surface connection**
+**Sackett: the CWA covers only adjacent wetlands indistinguishable from WOTUS: the adjacent water must be relatively permanent and connected to traditional navigable waters, with a continuous surface connection**
 
 **Sackett v. EPA, 598 U.S. 651**, U.S. Supreme Court (Alito, J.), “Sackett v. Environmental Protection Agency (21-454)”, May 25, 2023, <https://www.law.cornell.edu/supremecourt/text/21-454>, Accessed 2026-10-09 — *court case*
 
@@ -3279,7 +3279,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Court summary (pre-2015 regime, broad): WOTUS means all waters currently used, used in the past, or susceptible to use in interstate commerce, plus wetlands adjacent to them**
+**USLegal: WOTUS means all waters currently used, used in the past, or susceptible to use in interstate or foreign commerce, and wetlands adjacent to them**
 
 **USLegal Legal Definitions**, USLegal, Inc., “Waters of the United States Law and Legal Definition”, n.d., <https://definitions.uslegal.com/w/waters-of-the-united-states/>, Accessed 2026-10-09 — *legal dictionary*
 
@@ -3299,7 +3299,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**Corps Section 10 regulation: navigable waters of the United States are those WOTUS that are tidal or used, were used, or may be susceptible to use for interstate or foreign commerce**
+**Corps Section 10 regulation: navigable waters of the United States are generally those WOTUS subject to the tide or used, formerly used, or susceptible to use for interstate or foreign commerce**
 
 **33 CFR 322.2(a) (Army Corps of Engineers)**, U.S. Army Corps of Engineers, “33 CFR 322.2 - Definitions”, n.d., <https://www.law.cornell.edu/cfr/text/33/322.2>, Accessed 2026-10-09 — *regulation*
 
@@ -3323,7 +3323,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 **Oregon Revised Statutes 830.005(7)**, Oregon Legislature, “ORS 830.005 - Definitions for chapter”, n.d., <https://oregon.public.law/statutes/ors_830.005>, Accessed 2026-10-09 — *statute*
 
-<sub>Context: State boating-law definition; mirrors the interstate-continuous-waterway test from The Daniel Ball.</sub>
+<sub>Context: State boating-law definition; resembles the interstate-continuous-waterway test from The Daniel Ball.</sub>
 
 > (7) "Navigable waters of the United States" means those waters of the United States, including the territorial seas adjacent thereto, the general character of which is navigable, and that, either by themselves or by uniting with other waters, form a continuous waterway on which boats or vessels may navigate or travel between two or more states, or to and from foreign nations.
 
@@ -3333,7 +3333,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 **33 U.S.C. 1251(a)(1) (Clean Water Act sec. 101(a)(1))**, U.S. Congress, “33 U.S. Code sec. 1251 - Congressional declaration of goals and policy”, n.d., <https://www.law.cornell.edu/uscode/text/33/1251>, Accessed 2026-10-09 — *statute*
 
-<sub>Context: Statement of national goals. Frames discharge 'into the navigable waters' as the regulated activity; supports broad purpose reading.</sub>
+<sub>Context: Statement of national goals; refers to discharge 'into the navigable waters.'</sub>
 
 > it is the national goal that the discharge of pollutants into the navigable waters be eliminated by 1985;
 
@@ -3363,7 +3363,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 **U.S. Environmental Protection Agency**, U.S. EPA, “NPDES Permit Basics”, Last updated July 22, 2026, <https://www.epa.gov/npdes/npdes-permit-basics>, Accessed 2026-10-09 — *government agency*
 
-<sub>Context: 'What is an NPDES permit?' Plain-language agency summary of sec. 301(a)/402; equates 'navigable waters' with 'water of the United States' (the scope of the discharge prohibition).</sub>
+<sub>Context: 'What is an NPDES permit?' Plain-language agency summary.</sub>
 
 > The Clean Water Act prohibits anybody from discharging "pollutants" through a "point source" into a "water of the United States" unless they have an NPDES permit.
 
@@ -3379,7 +3379,7 @@ Card format: **tag** → citation (source, author, title, date, link, access dat
 
 ---
 
-**NOAA (international law): the U.S. territorial sea extends 12 nautical miles from baselines (since 1988), versus the CWA's three-mile statutory definition**
+**NOAA (international law): the United States claimed a 12 nautical mile territorial sea in 1988, extending 12 nm from baselines**
 
 **NOAA Office of General Counsel**, National Oceanic and Atmospheric Administration, “Maritime Zones and Boundaries”, Last updated March 18, 2026, <https://www.noaa.gov/gc-international-section/maritime-zones-and-boundaries>, Accessed 2026-10-09 — *government agency*
 
